@@ -1,0 +1,59 @@
+<svg width="820" height="240" viewBox="0 0 820 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">KJDB 2026 Seoul logo</title>
+  <desc id="desc">Transparent KJDB 2026 logo with Seoul skyline, Namsan Seoul Tower, and a stacked database symbol.</desc>
+  <defs>
+    <linearGradient id="skylineBlue" x1="35" y1="22" x2="215" y2="199" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4FB5F4"/>
+      <stop offset="1" stop-color="#1457D9"/>
+    </linearGradient>
+    <linearGradient id="deepBlue" x1="58" y1="88" x2="181" y2="212" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#263A93"/>
+      <stop offset="1" stop-color="#17286F"/>
+    </linearGradient>
+    <linearGradient id="topBlue" x1="47" y1="95" x2="183" y2="194" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#53B8F3"/>
+      <stop offset="1" stop-color="#2F94DE"/>
+    </linearGradient>
+    <filter id="softShadow" x="16" y="5" width="224" height="230" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="5"/>
+      <feGaussianBlur stdDeviation="7"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.034 0 0 0 0 0.063 0 0 0 0 0.145 0 0 0 0.18 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#softShadow)">
+    <path d="M41 88H55V63H71V88H83V51H98V88H111V70H126V88H142V58H157V88H176V73H191V88H204V104H41V88Z" fill="url(#skylineBlue)"/>
+    <path d="M126 88V45H133V29H138V45H145V88H126Z" fill="#17286F"/>
+    <path d="M123 29H148" stroke="#17286F" stroke-width="5" stroke-linecap="round"/>
+    <path d="M135.5 12V29" stroke="#17286F" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="135.5" cy="51" r="4.5" fill="#FFFFFF"/>
+
+    <rect x="77" y="24" width="21" height="21" fill="#42A5EA"/>
+    <rect x="166" y="34" width="26" height="26" fill="#23338B"/>
+    <rect x="105" y="52" width="15" height="15" fill="#24358E"/>
+    <rect x="157" y="72" width="13" height="13" fill="#3BA9EC"/>
+    <rect x="88" y="76" width="11" height="11" fill="#213285"/>
+
+    <path d="M40 127C40 109.6 73.6 95.5 115 95.5C156.4 95.5 190 109.6 190 127V152C190 169.4 156.4 183.5 115 183.5C73.6 183.5 40 169.4 40 152V127Z" fill="url(#deepBlue)"/>
+    <ellipse cx="115" cy="127" rx="75" ry="31.5" fill="url(#topBlue)" stroke="#FFFFFF" stroke-width="6"/>
+
+    <path d="M42 153C53 167.5 81.6 177.5 115 177.5C148.4 177.5 177 167.5 188 153V176C188 193.4 155.4 207.5 115 207.5C74.6 207.5 42 193.4 42 176V153Z" fill="url(#deepBlue)"/>
+    <ellipse cx="115" cy="153" rx="73" ry="26" fill="url(#topBlue)" stroke="#FFFFFF" stroke-width="6"/>
+
+    <path d="M42 178C53 192.5 81.6 202.5 115 202.5C148.4 202.5 177 192.5 188 178V199C188 216.4 155.4 230.5 115 230.5C74.6 230.5 42 216.4 42 199V178Z" fill="url(#deepBlue)"/>
+    <ellipse cx="115" cy="178" rx="73" ry="26" fill="url(#topBlue)" stroke="#FFFFFF" stroke-width="6"/>
+  </g>
+
+  <text x="250" y="111" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="0" fill="#172033">KJDB</text>
+  <text x="250" y="166" font-family="Inter, Arial, sans-serif" font-size="47" font-weight="800" letter-spacing="0" fill="#1457D9">2026</text>
+  <text x="395" y="160" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="0" fill="#D72536">Seoul, Korea</text>
+  <text x="250" y="201" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="0" fill="#5D6C68">Korea-Japan Database Workshop</text>
+  <path d="M250 182H716" stroke="#17286F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M250 182H483" stroke="#1457D9" stroke-width="5" stroke-linecap="round"/>
+  <path d="M483 182H716" stroke="#D72536" stroke-width="5" stroke-linecap="round"/>
+</svg>
