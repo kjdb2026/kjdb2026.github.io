@@ -552,7 +552,28 @@ td:last-child {
 .photo-grid,
 .tip-layout {
   display: grid;
-  gap: 18px;
+  gap: 16px;
+}
+
+.tourist-overview,
+.practical-section {
+  width: min(920px, calc(100% - 36px));
+}
+
+.tourist-overview .section-heading,
+.practical-section .section-heading,
+.tourist-photo-section .section-heading {
+  display: block;
+  margin-bottom: 22px;
+}
+
+.tourist-overview h2,
+.practical-section h2,
+.tourist-photo-section h2,
+.source-box h2 {
+  margin-top: 0;
+  font-size: clamp(30px, 4vw, 44px);
+  line-height: 1.08;
 }
 
 .travel-grid {
@@ -571,8 +592,14 @@ td:last-child {
 
 .travel-card {
   display: grid;
-  gap: 12px;
-  padding: 26px;
+  gap: 10px;
+  padding: 22px;
+}
+
+.travel-card h3,
+.photo-card h3,
+.tip-panel h3 {
+  margin: 0;
 }
 
 .travel-card span,
@@ -587,78 +614,84 @@ td:last-child {
 .photo-card p,
 .tip-panel li {
   color: var(--muted);
+  line-height: 1.65;
 }
 
 .tourist-photo-section {
   width: 100%;
-  padding-right: clamp(18px, 4vw, 56px);
-  padding-left: clamp(18px, 4vw, 56px);
-  background: #e8efed;
+  padding-right: 18px;
+  padding-left: 18px;
+  background: #eef3f1;
 }
 
 .tourist-photo-section .section-heading,
 .photo-grid {
-  width: min(1120px, 100%);
+  width: min(920px, 100%);
   margin-right: auto;
   margin-left: auto;
 }
 
 .photo-grid {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: 1fr;
 }
 
 .photo-card {
+  display: grid;
+  grid-template-columns: minmax(220px, 300px) minmax(0, 1fr);
+  align-items: stretch;
   overflow: hidden;
 }
 
 .photo-card img {
   display: block;
   width: 100%;
-  aspect-ratio: 4 / 3;
+  height: 100%;
+  min-height: 210px;
+  max-height: 250px;
   object-fit: cover;
   background: #dfe6e4;
 }
 
 .photo-card div {
   display: grid;
-  gap: 12px;
-  padding: 22px;
+  align-content: start;
+  gap: 10px;
+  padding: 24px 26px;
 }
 
 .photo-credit {
-  width: min(1120px, 100%);
+  width: min(920px, 100%);
   margin: 16px auto 0;
   color: var(--muted);
   font-size: 13px;
 }
 
 .tip-layout {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: 1fr;
 }
 
 .tip-panel {
-  padding: 24px;
+  padding: 24px 26px;
 }
 
 .tip-panel ul {
   display: grid;
-  gap: 10px;
+  gap: 8px;
   margin: 0;
   padding-left: 20px;
 }
 
 .source-box {
   display: grid;
+  width: min(920px, 100%);
+  margin-right: auto;
+  margin-left: auto;
   grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
   gap: 24px;
   align-items: center;
-  padding: 30px;
+  padding: 28px;
   background: var(--teal-dark);
   color: #fff;
-}
-
-.source-box h2 {
-  font-size: clamp(30px, 4vw, 48px);
 }
 
 .source-links {
@@ -757,6 +790,17 @@ td:last-child {
   .source-box,
   .source-links {
     grid-template-columns: 1fr;
+  }
+
+  .photo-card {
+    grid-template-columns: 1fr;
+  }
+
+  .photo-card img {
+    height: auto;
+    min-height: 0;
+    max-height: none;
+    aspect-ratio: 16 / 9;
   }
 
   .section-heading,
