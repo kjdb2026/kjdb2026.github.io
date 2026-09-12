@@ -548,6 +548,144 @@ td:last-child {
   color: var(--ink);
 }
 
+.travel-grid,
+.photo-grid,
+.tip-layout {
+  display: grid;
+  gap: 18px;
+}
+
+.travel-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.travel-card,
+.photo-card,
+.tip-panel,
+.source-box {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.travel-card {
+  display: grid;
+  gap: 12px;
+  padding: 26px;
+}
+
+.travel-card span,
+.photo-card span {
+  color: var(--amber);
+  font-size: 13px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.travel-card p,
+.photo-card p,
+.tip-panel li {
+  color: var(--muted);
+}
+
+.tourist-photo-section {
+  width: 100%;
+  padding-right: clamp(18px, 4vw, 56px);
+  padding-left: clamp(18px, 4vw, 56px);
+  background: #e8efed;
+}
+
+.tourist-photo-section .section-heading,
+.photo-grid {
+  width: min(1120px, 100%);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.photo-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.photo-card {
+  overflow: hidden;
+}
+
+.photo-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  background: #dfe6e4;
+}
+
+.photo-card div {
+  display: grid;
+  gap: 12px;
+  padding: 22px;
+}
+
+.photo-credit {
+  width: min(1120px, 100%);
+  margin: 16px auto 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.tip-layout {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.tip-panel {
+  padding: 24px;
+}
+
+.tip-panel ul {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding-left: 20px;
+}
+
+.source-box {
+  display: grid;
+  grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+  gap: 24px;
+  align-items: center;
+  padding: 30px;
+  background: var(--teal-dark);
+  color: #fff;
+}
+
+.source-box h2 {
+  font-size: clamp(30px, 4vw, 48px);
+}
+
+.source-links {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.source-links a {
+  display: inline-flex;
+  min-height: 48px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 8px;
+  padding: 10px 14px;
+  color: #fff;
+  font-weight: 800;
+  text-align: center;
+  text-decoration: none;
+}
+
+.source-links a:hover {
+  border-color: var(--amber);
+  color: var(--amber);
+}
+
 .site-footer {
   display: flex;
   justify-content: space-between;
@@ -612,7 +750,12 @@ td:last-child {
   .venue-layout,
   .info-grid,
   .committee-grid,
-  .event-links {
+  .event-links,
+  .travel-grid,
+  .photo-grid,
+  .tip-layout,
+  .source-box,
+  .source-links {
     grid-template-columns: 1fr;
   }
 
