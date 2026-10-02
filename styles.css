@@ -502,6 +502,20 @@ td:last-child {
   text-underline-offset: 4px;
 }
 
+.keynote-speaker {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr);
+  align-items: center;
+  gap: 28px;
+}
+
+.keynote-photo {
+  display: block;
+  width: min(220px, 100%);
+  height: auto;
+  border-radius: 8px;
+}
+
 .venue-panel {
   display: grid;
   gap: 10px;
@@ -846,6 +860,7 @@ td:last-child {
   .intro-grid,
   .venue-layout,
   .info-grid,
+  .keynote-speaker,
   .committee-grid,
   .event-links,
   .travel-grid,
