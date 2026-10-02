@@ -438,6 +438,70 @@ td:last-child {
   color: var(--muted);
 }
 
+.program-list {
+  display: grid;
+  gap: 20px;
+}
+
+.program-session {
+  min-width: 0;
+  scroll-margin-top: 120px;
+  overflow-wrap: anywhere;
+}
+
+.program-session h3 {
+  margin: 0 0 18px;
+  color: var(--teal-dark);
+  font-size: clamp(22px, 3vw, 28px);
+  line-height: 1.3;
+}
+
+.program-session h4 {
+  margin: 0 0 8px;
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+.program-talks {
+  display: grid;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.program-talks li + li {
+  border-top: 1px solid var(--line);
+  padding-top: 20px;
+}
+
+.program-speaker,
+.program-description,
+.program-panelists {
+  color: var(--muted);
+}
+
+.program-speaker {
+  margin: 0;
+}
+
+.program-description {
+  margin: 0 0 20px;
+}
+
+.program-panelists {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.program-link {
+  display: inline-block;
+  margin-top: 18px;
+  color: var(--teal);
+  font-weight: 700;
+  text-underline-offset: 4px;
+}
+
 .venue-panel {
   display: grid;
   gap: 10px;
@@ -501,7 +565,7 @@ td:last-child {
   line-height: 1.2;
 }
 
-.committee-grid article a {
+.committee-grid article > a {
   display: inline-block;
   margin-top: 12px;
   color: var(--teal);
