@@ -534,6 +534,106 @@ td:last-child {
   line-height: 1;
 }
 
+.venue-intro > p {
+  margin-top: 18px;
+}
+
+.venue-local-name {
+  font-weight: 700;
+}
+
+.venue-panel address,
+.detail-card address {
+  font-style: normal;
+}
+
+.content-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 24px;
+  margin-top: 20px;
+}
+
+.content-heading {
+  margin-top: 56px;
+}
+
+.content-heading h2 {
+  font-size: clamp(30px, 4vw, 44px);
+}
+
+.detail-card,
+.venue-panel {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.detail-card p {
+  color: var(--muted);
+}
+
+.detail-card p + p,
+.detail-card address {
+  margin-top: 14px;
+}
+
+.detail-list {
+  display: grid;
+  gap: 12px;
+  margin: 20px 0 0;
+}
+
+.detail-list dt {
+  font-weight: 700;
+}
+
+.detail-list dd {
+  margin: 0;
+}
+
+.content-source {
+  margin-top: 20px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.fee-card h3 {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  color: var(--teal-dark);
+  font-size: 28px;
+}
+
+.fee-card h3 span {
+  align-self: center;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.fee-card th:first-child {
+  padding-right: 12px;
+}
+
+.fee-card tbody th {
+  font-weight: 500;
+}
+
+.fee-card td {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.fee-card tfoot {
+  color: var(--teal-dark);
+  font-weight: 800;
+}
+
+.fee-card tfoot th,
+.fee-card tfoot td {
+  border-bottom: 0;
+}
+
 .committee-grid {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
