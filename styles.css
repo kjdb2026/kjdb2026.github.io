@@ -354,6 +354,7 @@ p {
 }
 
 .status-pill {
+  gap: 4px;
   border-color: var(--line);
   color: var(--teal-dark);
   background: #fff;
@@ -560,6 +561,84 @@ td:last-child {
 
 .content-heading h2 {
   font-size: clamp(30px, 4vw, 44px);
+}
+
+.hotel-photo {
+  min-width: 0;
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+}
+
+.hotel-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.hotel-photo figcaption {
+  padding: 14px 18px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.hotel-photo figcaption strong {
+  color: var(--ink);
+  font-size: 18px;
+}
+
+.venue-photo {
+  margin-bottom: 36px;
+}
+
+.hotel-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.hotel-gallery + .content-source {
+  margin-bottom: 28px;
+}
+
+.hotel-gallery img {
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+}
+
+.detail-points {
+  display: grid;
+  gap: 10px;
+  margin: 0 0 18px;
+  padding-left: 20px;
+  color: var(--muted);
+}
+
+.arrival-card,
+.speaker-bio {
+  margin-top: 24px;
+}
+
+.schedule-notice,
+.contact-guide {
+  margin-bottom: 32px;
+}
+
+.section-heading[id],
+.committee-section[id],
+.info-card[id] {
+  scroll-margin-top: 110px;
+}
+
+.planning-section h2 {
+  font-size: clamp(32px, 4vw, 48px);
+}
+
+.content-actions .program-link,
+.travel-card .program-link {
+  margin-top: 0;
 }
 
 .detail-card,
@@ -960,6 +1039,7 @@ td:last-child {
   .intro-grid,
   .venue-layout,
   .info-grid,
+  .hotel-gallery,
   .keynote-speaker,
   .committee-grid,
   .event-links,
@@ -996,6 +1076,11 @@ td:last-child {
 }
 
 @media (max-width: 520px) {
+  .page-hero h1 {
+    font-size: clamp(32px, 8.5vw, 44px);
+    overflow-wrap: anywhere;
+  }
+
   .brand {
     gap: 9px;
   }

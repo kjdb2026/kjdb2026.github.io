@@ -1,0 +1,35 @@
+[
+  {
+    "file": "fraser-central-exterior.jpg",
+    "image_url": "https://fpcs.co.kr/upload/contents/19/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A9%94%EC%9D%B8%EC%82%AC%EC%A7%84-%281%29-1.6.jpg",
+    "source_page": "https://fpcs.co.kr/kr/main",
+    "description": "Fraser Place Central Seoul exterior",
+    "width": 1920,
+    "height": 723,
+    "credit": "Frasers Hospitality / Fraser Place Central Seoul",
+    "retrieved_on": "2026-10-14",
+    "sha256": "71811443c2cd1662c7c3e2104d57f2324f51f07946933d5ded3831a7384f42f4"
+  },
+  {
+    "file": "fraser-central-studio.jpg",
+    "image_url": "https://www.frasershospitality.com/content/dam/frasers-hospitality/english/properties/korea/seoul/fraser-place-central-seoul-/images/gallery-images/rooms/room-types/studio/studio%20double%2000977%20P.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+    "source_page": "https://www.frasershospitality.com/en/south-korea/seoul/fraser-place-central-seoul/accommodation/studio/",
+    "description": "Studio at Fraser Place Central Seoul",
+    "width": 1280,
+    "height": 853,
+    "credit": "Frasers Hospitality / Fraser Place Central Seoul",
+    "retrieved_on": "2026-10-14",
+    "sha256": "ca73f3fbb8aff4ea007d1f40c3abe0e044491a4cedbfae2a23a7f342741c8677"
+  },
+  {
+    "file": "fraser-central-one-bedroom.jpg",
+    "image_url": "https://www.frasershospitality.com/content/dam/frasers-hospitality/english/properties/korea/seoul/fraser-place-central-seoul-/images/gallery-images/rooms/room-types/one-bedroom-deluxe/1DK%20(4).JPG",
+    "source_page": "https://www.frasershospitality.com/en/south-korea/seoul/fraser-place-central-seoul/accommodation/one-bedroom-deluxe/",
+    "description": "One Bedroom Deluxe at Fraser Place Central Seoul",
+    "width": 1413,
+    "height": 941,
+    "credit": "Frasers Hospitality / Fraser Place Central Seoul",
+    "retrieved_on": "2026-10-14",
+    "sha256": "68cf57d6531cedd67270f80b2282926fff10ea455b3a3472e032e156ad58b299"
+  }
+]
