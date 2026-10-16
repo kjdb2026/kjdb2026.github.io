@@ -1,0 +1,1274 @@
+{
+  "Plan your KJDB 2026 stay at Fraser Place Central Seoul, the workshop venue hotel. Find hotel contact details and reservation information.": {
+    "ko": "KJDB 2026 행사장인 프레이저 플레이스 센트럴 서울에서의 숙박을 준비하세요. 호텔 연락처와 예약 정보를 안내합니다.",
+    "ja": "KJDB 2026の会場ホテル、フレイザー プレイス セントラル ソウルでの宿泊をご案内します。ホテルの連絡先と予約情報をご確認ください。"
+  },
+  "KJDB 2026 home": {
+    "ko": "KJDB 2026 홈",
+    "ja": "KJDB 2026 ホーム"
+  },
+  "Open navigation": {
+    "ko": "메뉴 열기",
+    "ja": "メニューを開く"
+  },
+  "Primary navigation": {
+    "ko": "주요 메뉴",
+    "ja": "メインメニュー"
+  },
+  "Studio guest room at Fraser Place Central Seoul with a double bed and seating by the window": {
+    "ko": "더블 침대와 창가 좌석이 있는 프레이저 플레이스 센트럴 서울의 스튜디오 객실",
+    "ja": "ダブルベッドと窓際の座席を備えたフレイザー プレイス セントラル ソウルのスタジオ客室"
+  },
+  "Living and dining area of a One Bedroom Deluxe apartment at Fraser Place Central Seoul": {
+    "ko": "프레이저 플레이스 센트럴 서울 원 베드룸 디럭스의 거실 및 식사 공간",
+    "ja": "フレイザー プレイス セントラル ソウルのワンベッドルーム デラックスのリビング・ダイニング"
+  },
+  "Accommodation | KJDB 2026": {
+    "ko": "숙박 안내 | KJDB 2026",
+    "ja": "宿泊案内 | KJDB 2026"
+  },
+  "<0>KJDB 2026</0> <1>Korea-Japan Database Workshop 2026</1>": {
+    "ko": "<0>KJDB 2026</0> <1>2026 한일 데이터베이스 워크숍</1>",
+    "ja": "<0>KJDB 2026</0> <1>2026 日韓データベースワークショップ</1>"
+  },
+  "Home": {
+    "ko": "홈",
+    "ja": "ホーム"
+  },
+  "Keynote": {
+    "ko": "기조강연",
+    "ja": "基調講演"
+  },
+  "Program": {
+    "ko": "프로그램",
+    "ja": "プログラム"
+  },
+  "Registration": {
+    "ko": "등록 안내",
+    "ja": "参加登録"
+  },
+  "Reception": {
+    "ko": "리셉션",
+    "ja": "レセプション"
+  },
+  "Venue": {
+    "ko": "행사장 안내",
+    "ja": "会場案内"
+  },
+  "Accommodation": {
+    "ko": "숙박 안내",
+    "ja": "宿泊案内"
+  },
+  "Tourist Information": {
+    "ko": "관광 안내",
+    "ja": "観光案内"
+  },
+  "Organization": {
+    "ko": "조직위원회",
+    "ja": "組織委員会"
+  },
+  "Past Events": {
+    "ko": "지난 행사",
+    "ja": "過去の開催"
+  },
+  "Plan your stay at Fraser Place Central Seoul, the KJDB 2026 venue.": {
+    "ko": "KJDB 2026 행사장인 프레이저 플레이스 센트럴 서울에서의 숙박을 준비하세요.",
+    "ja": "KJDB 2026の会場、フレイザー プレイス セントラル ソウルでの宿泊をご検討ください。"
+  },
+  "Venue hotel": {
+    "ko": "행사장 호텔",
+    "ja": "会場ホテル"
+  },
+  "Stay at the workshop venue": {
+    "ko": "행사장 호텔에서 머무르세요",
+    "ja": "会場ホテルでのご宿泊"
+  },
+  "<0>Studio</0><1/>Photo: Frasers Hospitality · <2>Official room details</2>": {
+    "ko": "<0>스튜디오</0><1/>사진: Frasers Hospitality · <2>공식 객실 안내</2>",
+    "ja": "<0>スタジオ</0><1/>写真：Frasers Hospitality · <2>公式客室案内</2>"
+  },
+  "<0>One Bedroom Deluxe</0><1/>Photo: Frasers Hospitality · <2>Official room details</2>": {
+    "ko": "<0>원 베드룸 디럭스</0><1/>사진: Frasers Hospitality · <2>공식 객실 안내</2>",
+    "ja": "<0>ワンベッドルーム デラックス</0><1/>写真：Frasers Hospitality · <2>公式客室案内</2>"
+  },
+  "Room photos illustrate the hotel's accommodation options. Room availability, layout, and allocation depend on your booking.": {
+    "ko": "사진은 호텔의 객실 유형을 보여 주는 예시입니다. 예약 가능한 객실, 구조 및 배정은 예약 내용에 따라 달라집니다.",
+    "ja": "写真はホテルの客室タイプの一例です。空室状況、間取り、客室の割り当ては予約内容によって異なります。"
+  },
+  "Fraser Place Central Seoul": {
+    "ko": "프레이저 플레이스 센트럴 서울",
+    "ja": "フレイザー プレイス セントラル ソウル"
+  },
+  "The venue offers serviced apartments, including studios and one- and two-bedroom apartments, with in-room kitchenettes.": {
+    "ko": "호텔은 간이 주방을 갖춘 스튜디오, 침실 1개 또는 2개 타입의 서비스드 아파트먼트를 제공합니다.",
+    "ja": "ホテルでは、簡易キッチン付きのスタジオ、1ベッドルーム、2ベッドルームのサービスアパートメントを提供しています。"
+  },
+  "78 Tongil-ro, Jung-gu, Seoul 04517, Korea<0/><1>서울특별시 중구 통일로 78</1>": {
+    "ko": "78 Tongil-ro, Jung-gu, Seoul 04517, Korea<0/><1>서울특별시 중구 통일로 78</1>",
+    "ja": "韓国 ソウル特別市 中区 統一路78（〒04517）<0/><1>서울특별시 중구 통일로 78</1>"
+  },
+  "View venue and directions": {
+    "ko": "행사장 및 오시는 길",
+    "ja": "会場・アクセスを見る"
+  },
+  "Hotel reservations": {
+    "ko": "호텔 예약",
+    "ja": "ホテルのご予約"
+  },
+  "For current room options, availability, and standard rates, visit the official hotel website or contact the hotel.": {
+    "ko": "현재 객실 유형, 예약 가능 여부 및 일반 요금은 호텔 공식 웹사이트를 확인하거나 호텔에 문의해 주세요.",
+    "ja": "最新の客室タイプ、空室状況、通常料金は、ホテルの公式サイトをご確認いただくか、ホテルにお問い合わせください。"
+  },
+  "Phone": {
+    "ko": "전화",
+    "ja": "電話"
+  },
+  "<0>+82 2 2220 8888</0>": {
+    "ko": "<0>+82 2 2220 8888</0>",
+    "ja": "<0>+82 2 2220 8888</0>"
+  },
+  "Email": {
+    "ko": "이메일",
+    "ja": "メール"
+  },
+  "<0>reservations.central@frasershospitality.com</0>": {
+    "ko": "<0>reservations.central@frasershospitality.com</0>",
+    "ja": "<0>reservations.central@frasershospitality.com</0>"
+  },
+  "<0>View hotel and room options</0>": {
+    "ko": "<0>호텔 및 객실 정보 보기</0>",
+    "ja": "<0>ホテル・客室情報を見る</0>"
+  },
+  "Workshop accommodation arrangements": {
+    "ko": "워크숍 숙박 관련 안내",
+    "ja": "ワークショップの宿泊手配について"
+  },
+  "KJDB 2026 group rates, room blocks, and a dedicated booking procedure have not yet been announced. Any workshop-specific reservation guidance will be posted here once confirmed.": {
+    "ko": "KJDB 2026 단체 요금, 확보 객실 및 전용 예약 절차는 아직 공지되지 않았습니다. 워크숍 참가자를 위한 예약 안내가 확정되면 이 페이지에 게시하겠습니다.",
+    "ja": "KJDB 2026の団体料金、確保客室、専用の予約手続きはまだ発表されていません。参加者向けの予約案内が確定しましたら、このページに掲載します。"
+  },
+  "Planning your stay": {
+    "ko": "숙박 계획",
+    "ja": "宿泊の計画"
+  },
+  "Before you book": {
+    "ko": "예약 전 확인 사항",
+    "ja": "ご予約の前に"
+  },
+  "Arrival and departure": {
+    "ko": "도착 및 출발",
+    "ja": "到着・出発"
+  },
+  "Hotel check-in": {
+    "ko": "호텔 체크인",
+    "ja": "チェックイン"
+  },
+  "From 15:00": {
+    "ko": "15:00부터",
+    "ja": "15:00以降"
+  },
+  "Hotel check-out": {
+    "ko": "호텔 체크아웃",
+    "ja": "チェックアウト"
+  },
+  "By 11:00": {
+    "ko": "11:00까지",
+    "ja": "11:00まで"
+  },
+  "Local time in Seoul (KST, UTC+9). Ask the hotel about early arrival or late departure arrangements.": {
+    "ko": "서울 현지 시각(KST, UTC+9) 기준입니다. 이른 체크인이나 늦은 체크아웃은 호텔에 문의해 주세요.",
+    "ja": "時刻はソウル現地時間（KST、UTC+9）です。アーリーチェックインやレイトチェックアウトについては、ホテルにお問い合わせください。"
+  },
+  "Official hotel FAQ": {
+    "ko": "호텔 공식 FAQ",
+    "ja": "ホテル公式FAQ"
+  },
+  "Check your reservation conditions": {
+    "ko": "예약 조건을 확인하세요",
+    "ja": "予約条件をご確認ください"
+  },
+  "Room type, bed configuration, and number of guests.": {
+    "ko": "객실 유형, 침대 구성 및 투숙 인원.",
+    "ja": "客室タイプ、ベッドの構成、宿泊人数。"
+  },
+  "Whether breakfast and taxes are included in the quoted rate.": {
+    "ko": "안내된 요금에 조식과 세금이 포함되는지 여부.",
+    "ja": "表示料金に朝食と税金が含まれるか。"
+  },
+  "Payment, cancellation, and refund conditions.": {
+    "ko": "결제, 취소 및 환불 조건.",
+    "ja": "支払い、キャンセル、返金の条件。"
+  },
+  "Any booking deadline or code for a workshop rate, if announced.": {
+    "ko": "워크숍 특별 요금이 공지된 경우 예약 마감일 및 예약 코드.",
+    "ja": "ワークショップ特別料金が案内されている場合は、予約期限と予約コード。"
+  },
+  "The workshop runs December 11–13. Opening and closing times are still to be announced on the <0>program page</0>.": {
+    "ko": "워크숍은 12월 11~13일에 개최됩니다. 개회 및 폐회 시각은 추후 <0>프로그램 페이지</0>에 공지됩니다.",
+    "ja": "ワークショップは12月11〜13日に開催されます。開始・終了時刻は、後日<0>プログラムページ</0>でお知らせします。"
+  },
+  "Hotel information checked on <0>October 14, 2026</0>: <1>Fraser Place Central Seoul</1>.": {
+    "ko": "호텔 정보 확인일: <0>2026년 10월 14일</0> · <1>프레이저 플레이스 센트럴 서울</1>.",
+    "ja": "ホテル情報の確認日：<0>2026年10月14日</0> · <1>フレイザー プレイス セントラル ソウル</1>。"
+  },
+  "KJDB 2026 | Korea-Japan Database Workshop": {
+    "ko": "KJDB 2026 | 한일 데이터베이스 워크숍",
+    "ja": "KJDB 2026 | 日韓データベースワークショップ"
+  },
+  "Copyright © 2026, KJDB 2026 Organizing Committee": {
+    "ko": "저작권 © 2026, KJDB 2026 조직위원회",
+    "ja": "著作権 © 2026, KJDB 2026 組織委員会"
+  },
+  "KJDB 2026, the 21st Korea-Japan (Japan-Korea) Database Workshop, December 11–13, 2026, at Fraser Place Central Seoul, Korea.": {
+    "ko": "제21회 한일(일한) 데이터베이스 워크숍 KJDB 2026이 2026년 12월 11~13일 대한민국 프레이저 플레이스 센트럴 서울에서 개최됩니다.",
+    "ja": "第21回 日韓（韓日）データベースワークショップ KJDB 2026は、2026年12月11〜13日に韓国のフレイザー プレイス セントラル ソウルで開催されます。"
+  },
+  "KJDB 2026": {
+    "ko": "KJDB 2026",
+    "ja": "KJDB 2026"
+  },
+  "Event details": {
+    "ko": "행사 정보",
+    "ja": "開催概要"
+  },
+  "KJDB 2026 status": {
+    "ko": "KJDB 2026 안내",
+    "ja": "KJDB 2026のお知らせ"
+  },
+  "The 21st Korea-Japan (Japan-Korea) Database Workshop": {
+    "ko": "제21회 한일(일한) 데이터베이스 워크숍",
+    "ja": "第21回 日韓（韓日）データベースワークショップ"
+  },
+  "Korea-Japan Database Workshop 2026": {
+    "ko": "2026 한일 데이터베이스 워크숍",
+    "ja": "2026 日韓データベースワークショップ"
+  },
+  "<0>December 11–13, 2026</0> <1>Seoul, Korea</1> <2>Fraser Place Central Seoul</2>": {
+    "ko": "<0>2026년 12월 11~13일</0> <1>대한민국 서울</1> <2>프레이저 플레이스 센트럴 서울</2>",
+    "ja": "<0>2026年12月11〜13日</0> <1>韓国・ソウル</1> <2>フレイザー プレイス セントラル ソウル</2>"
+  },
+  "<0>Registration Fees</0> <1>View Program</1>": {
+    "ko": "<0>등록비 안내</0> <1>프로그램 보기</1>",
+    "ja": "<0>参加費のご案内</0> <1>プログラムを見る</1>"
+  },
+  "About": {
+    "ko": "워크숍 소개",
+    "ja": "ワークショップについて"
+  },
+  "Korea and Japan's annual workshop for database research.": {
+    "ko": "한국과 일본의 데이터베이스 연구를 위한 연례 워크숍",
+    "ja": "日韓のデータベース研究者が集う年次ワークショップ"
+  },
+  "The Korea-Japan (Japan-Korea) Database Workshop is an annual joint workshop with scholars in Korea, Japan, and neighboring research communities for sharing the latest activities in database and database-related technologies.": {
+    "ko": "한일(일한) 데이터베이스 워크숍은 한국, 일본 및 인근 연구 커뮤니티의 연구자들이 데이터베이스와 관련 기술의 최신 연구 활동을 공유하는 연례 공동 워크숍입니다.",
+    "ja": "日韓（韓日）データベースワークショップは、日本、韓国、および近隣の研究コミュニティの研究者が、データベースと関連技術の最新の研究活動を共有する年次合同ワークショップです。"
+  },
+  "KJDB 2026 will continue the workshop tradition of interactive discussion, early research exchange, and collaboration across data management, AI, information retrieval, data mining, and emerging database systems.": {
+    "ko": "KJDB 2026은 데이터 관리, AI, 정보 검색, 데이터 마이닝, 차세대 데이터베이스 시스템 분야에서 활발한 토론, 초기 연구 교류 및 협력을 이어갑니다.",
+    "ja": "KJDB 2026は、データ管理、AI、情報検索、データマイニング、新たなデータベースシステムの分野において、活発な議論、初期段階の研究交流、共同研究の伝統を受け継ぎます。"
+  },
+  "<0>Venue and registration fees confirmed</0> <1>Join us at Fraser Place Central Seoul. Regular registration (KRW 500,000 for Korea; JPY 57,000 for Japan) includes the banquet at no additional cost.</1>": {
+    "ko": "<0>행사장 및 등록비 확정</0> <1>프레이저 플레이스 센트럴 서울에서 만나요. 일반 등록비(한국 500,000원 / 일본 57,000엔)에는 연회가 포함되어 추가 비용이 없습니다.</1>",
+    "ja": "<0>会場・参加費が確定しました</0> <1>フレイザー プレイス セントラル ソウルでお会いしましょう。通常参加費（韓国：500,000ウォン／日本：57,000円）には懇親会費が含まれ、追加料金はかかりません。</1>"
+  },
+  "View registration fees": {
+    "ko": "등록비 보기",
+    "ja": "参加費を見る"
+  },
+  "Plan your visit": {
+    "ko": "참가 준비",
+    "ja": "参加の準備"
+  },
+  "Before you travel": {
+    "ko": "방문 전 확인하세요",
+    "ja": "ご出発の前に"
+  },
+  "December 11–13, 2026": {
+    "ko": "2026년 12월 11~13일",
+    "ja": "2026年12月11〜13日"
+  },
+  "Workshop schedule": {
+    "ko": "워크숍 일정",
+    "ja": "開催日程"
+  },
+  "Talks and session topics are available in the draft program. Daily start and finish times will be announced.": {
+    "ko": "발표와 세션 주제는 프로그램 초안에서 확인할 수 있습니다. 일별 시작 및 종료 시각은 추후 공지됩니다.",
+    "ja": "講演とセッションのテーマはプログラム案でご確認いただけます。各日の開始・終了時刻は後日お知らせします。"
+  },
+  "View the draft program": {
+    "ko": "프로그램 초안 보기",
+    "ja": "プログラム案を見る"
+  },
+  "Travel and accommodation": {
+    "ko": "교통 및 숙박",
+    "ja": "交通・宿泊"
+  },
+  "Find airport routes, subway exits, hotel photos, and reservation guidance for your stay in Seoul.": {
+    "ko": "서울 체류를 위한 공항 이동 경로, 지하철 출구, 호텔 사진 및 예약 안내를 확인하세요.",
+    "ja": "ソウル滞在に向けて、空港からのアクセス、地下鉄の出口、ホテルの写真、予約案内をご確認ください。"
+  },
+  "Plan your route": {
+    "ko": "이동 경로 확인",
+    "ja": "アクセスを確認"
+  },
+  "Explore the venue hotel": {
+    "ko": "행사장 호텔 살펴보기",
+    "ja": "会場ホテルを見る"
+  },
+  "Participation": {
+    "ko": "참가 안내",
+    "ja": "参加について"
+  },
+  "Questions before attending?": {
+    "ko": "참가 전 궁금한 점이 있나요?",
+    "ja": "参加についてご質問がありますか？"
+  },
+  "Registration is open. For attendance eligibility, presentation enquiries, or language arrangements, contact the organizing committee.": {
+    "ko": "참가 등록이 진행 중입니다. 참가 자격, 발표 또는 사용 언어에 관한 문의는 조직위원회에 연락해 주세요.",
+    "ja": "参加登録を受け付けています。参加資格、発表、使用言語については、組織委員会にお問い合わせください。"
+  },
+  "Find the right contact": {
+    "ko": "문의 담당자 확인",
+    "ja": "お問い合わせ先を見る"
+  },
+  "Latest website update: <0>October 15, 2026</0> — registration information corrected to clarify that the banquet is included.": {
+    "ko": "최근 웹사이트 업데이트: <0>2026년 10월 15일</0> — 일반 등록비에 연회가 포함됨을 명확히 안내하도록 수정했습니다.",
+    "ja": "最終更新：<0>2026年10月15日</0> — 通常参加費に懇親会費が含まれることを明記しました。"
+  },
+  "Quick Links": {
+    "ko": "바로가기",
+    "ja": "クイックリンク"
+  },
+  "Workshop information": {
+    "ko": "워크숍 안내",
+    "ja": "ワークショップのご案内"
+  },
+  "<0> <1>Keynote</1> <2>Invited talks</2> </0> <3> <4>Registration</4> <5>Fees and participation</5> </3> <6> <7>Program</7> <8>Draft program</8> </6> <9> <10>Venue</10> <11>Fraser Place Central Seoul</11> </9> <12> <13>Accommodation</13> <14>Venue hotel and reservations</14> </12> <15> <16>Tourist Information</16> <17>Explore Seoul</17> </15> <18> <19>Reception</19> <20>Welcome event</20> </18>": {
+    "ko": "<0><1>기조강연</1><2>초청 강연</2></0> <3><4>등록 안내</4><5>등록비 및 참가 안내</5></3> <6><7>프로그램</7><8>프로그램 초안</8></6> <9><10>행사장 안내</10><11>프레이저 플레이스 센트럴 서울</11></9> <12><13>숙박 안내</13><14>행사장 호텔 및 예약</14></12> <15><16>관광 안내</16><17>서울 둘러보기</17></15> <18><19>리셉션</19><20>환영 행사</20></18>",
+    "ja": "<0><1>基調講演</1><2>招待講演</2></0> <3><4>参加登録</4><5>参加費・参加案内</5></3> <6><7>プログラム</7><8>プログラム案</8></6> <9><10>会場案内</10><11>フレイザー プレイス セントラル ソウル</11></9> <12><13>宿泊案内</13><14>会場ホテル・予約</14></12> <15><16>観光案内</16><17>ソウルを楽しむ</17></15> <18><19>レセプション</19><20>歓迎イベント</20></18>"
+  },
+  "KJDB 2026 | Korea-Japan (Japan-Korea) Database Workshop 2026": {
+    "ko": "KJDB 2026 | 2026 한일(일한) 데이터베이스 워크숍",
+    "ja": "KJDB 2026 | 2026 日韓（韓日）データベースワークショップ"
+  },
+  "KJDB 2026 keynote: Adaptive Intelligence under Real-World Constraints, presented by Prof. Jae-Gil Lee (KAIST).": {
+    "ko": "KJDB 2026 기조강연: 현실 세계의 제약 속에서 구현하는 적응형 지능 — Jae-Gil Lee 교수(KAIST).",
+    "ja": "KJDB 2026 基調講演：現実世界の制約下における適応型知能 — Jae-Gil Lee 教授（KAIST）。"
+  },
+  "Prof. Jae-Gil Lee": {
+    "ko": "Jae-Gil Lee 교수",
+    "ja": "Jae-Gil Lee 教授"
+  },
+  "Keynote | KJDB 2026": {
+    "ko": "기조강연 | KJDB 2026",
+    "ja": "基調講演 | KJDB 2026"
+  },
+  "Invited keynote talk for KJDB 2026.": {
+    "ko": "KJDB 2026 초청 기조강연을 소개합니다.",
+    "ja": "KJDB 2026の招待基調講演をご紹介します。"
+  },
+  "Speaker": {
+    "ko": "연사",
+    "ja": "講演者"
+  },
+  "Keynote speaker": {
+    "ko": "기조강연 연사",
+    "ja": "基調講演者"
+  },
+  "Draft program": {
+    "ko": "프로그램 초안",
+    "ja": "プログラム案"
+  },
+  "Adaptive Intelligence under Real-World Constraints": {
+    "ko": "현실 세계의 제약 속에서 구현하는 적응형 지능",
+    "ja": "現実世界の制約下における適応型知能"
+  },
+  "Prof. Jae-Gil Lee (KAIST)": {
+    "ko": "Jae-Gil Lee 교수 (KAIST)",
+    "ja": "Jae-Gil Lee 教授（KAIST）"
+  },
+  "View in the workshop program": {
+    "ko": "워크숍 프로그램에서 보기",
+    "ja": "プログラムで確認"
+  },
+  "About the speaker": {
+    "ko": "연사 소개",
+    "ja": "講演者紹介"
+  },
+  "Jae-Gil Lee is a Professor in the School of Computing at KAIST and leads its Data Mining Lab. His research covers data-centric AI, deep learning for big data, mobility and stream data mining, and distributed deep learning.": {
+    "ko": "Jae-Gil Lee 교수는 KAIST 전산학부 교수이자 데이터 마이닝 연구실 책임자입니다. 데이터 중심 AI, 빅데이터 딥러닝, 모빌리티 및 스트림 데이터 마이닝, 분산 딥러닝을 연구합니다.",
+    "ja": "Jae-Gil Lee氏はKAIST電算学部の教授で、データマイニング研究室を率いています。データ中心AI、ビッグデータの深層学習、モビリティ・ストリームデータマイニング、分散深層学習を研究しています。"
+  },
+  "Before joining KAIST, he held research positions at IBM Almaden Research Center and the University of Illinois at Urbana-Champaign.": {
+    "ko": "KAIST에 부임하기 전에는 IBM Almaden Research Center와 일리노이대학교 어배너샴페인 캠퍼스에서 연구원으로 근무했습니다.",
+    "ja": "KAIST着任前は、IBM Almaden Research Centerおよびイリノイ大学アーバナ・シャンペーン校で研究に従事していました。"
+  },
+  "Official speaker biography and research": {
+    "ko": "연사 공식 약력 및 연구",
+    "ja": "講演者の公式略歴・研究紹介"
+  },
+  "Further details": {
+    "ko": "추가 안내",
+    "ja": "今後のご案内"
+  },
+  "The keynote date, time, and abstract will be announced.": {
+    "ko": "기조강연 날짜, 시각 및 초록은 추후 공지됩니다.",
+    "ja": "基調講演の日時と概要は後日お知らせします。"
+  },
+  "Organizing committee for KJDB 2026.": {
+    "ko": "KJDB 2026 조직위원회를 소개합니다.",
+    "ja": "KJDB 2026の組織委員会をご紹介します。"
+  },
+  "U Kang": {
+    "ko": "U Kang",
+    "ja": "U Kang"
+  },
+  "Akiyo Nadamoto": {
+    "ko": "Akiyo Nadamoto",
+    "ja": "Akiyo Nadamoto"
+  },
+  "Jongwuk Lee": {
+    "ko": "Jongwuk Lee",
+    "ja": "Jongwuk Lee"
+  },
+  "Kyoung-Sook Kim": {
+    "ko": "Kyoung-Sook Kim",
+    "ja": "Kyoung-Sook Kim"
+  },
+  "Jinhong Jung": {
+    "ko": "Jinhong Jung",
+    "ja": "Jinhong Jung"
+  },
+  "Hamyung Park": {
+    "ko": "Hamyung Park",
+    "ja": "Hamyung Park"
+  },
+  "Hiroaki Ohshima": {
+    "ko": "Hiroaki Ohshima",
+    "ja": "Hiroaki Ohshima"
+  },
+  "Suan Lee": {
+    "ko": "Suan Lee",
+    "ja": "Suan Lee"
+  },
+  "Organization | KJDB 2026": {
+    "ko": "조직위원회 | KJDB 2026",
+    "ja": "組織委員会 | KJDB 2026"
+  },
+  "KJDB 2026 organizing committee and workshop roles.": {
+    "ko": "KJDB 2026 조직위원회와 담당 업무를 안내합니다.",
+    "ja": "KJDB 2026の組織委員会と各担当をご案内します。"
+  },
+  "Contact": {
+    "ko": "문의",
+    "ja": "お問い合わせ"
+  },
+  "How can we help?": {
+    "ko": "무엇을 도와드릴까요?",
+    "ja": "お問い合わせ先"
+  },
+  "Program and presentations": {
+    "ko": "프로그램 및 발표",
+    "ja": "プログラム・発表"
+  },
+  "For research sessions, presentation enquiries, or program details, contact the Program Co-Chairs listed below.": {
+    "ko": "연구 세션, 발표 또는 프로그램의 자세한 내용은 아래 프로그램 공동위원장에게 문의해 주세요.",
+    "ja": "研究セッション、発表、プログラムの詳細については、下記のプログラム共同委員長にお問い合わせください。"
+  },
+  "Program Co-Chairs": {
+    "ko": "프로그램 공동위원장",
+    "ja": "プログラム共同委員長"
+  },
+  "Participation and local arrangements": {
+    "ko": "참가 및 행사 운영",
+    "ja": "参加・現地手配"
+  },
+  "Contact the Organization Co-Chairs about attendance and workshop arrangements. For an individual hotel reservation, contact the <0>hotel directly</0>.": {
+    "ko": "참가 및 워크숍 운영에 관한 사항은 조직 공동위원장에게 문의해 주세요. 개별 호텔 예약은 <0>호텔에 직접 문의</0>해 주세요.",
+    "ja": "参加やワークショップの運営については、組織共同委員長にお問い合わせください。個別のホテル予約は<0>ホテルへ直接</0>お問い合わせください。"
+  },
+  "Organization Co-Chairs": {
+    "ko": "조직 공동위원장",
+    "ja": "組織共同委員長"
+  },
+  "Organizer introduction": {
+    "ko": "조직위원 소개",
+    "ja": "委員紹介"
+  },
+  "General Co-Chairs": {
+    "ko": "총괄 공동위원장",
+    "ja": "大会共同委員長"
+  },
+  "<0>U Kang</0>": {
+    "ko": "<0>U Kang</0>",
+    "ja": "<0>U Kang</0>"
+  },
+  "Seoul National University": {
+    "ko": "서울대학교",
+    "ja": "ソウル大学"
+  },
+  "ukang@snu.ac.kr": {
+    "ko": "ukang@snu.ac.kr",
+    "ja": "ukang@snu.ac.kr"
+  },
+  "<0>Akiyo Nadamoto</0>": {
+    "ko": "<0>Akiyo Nadamoto</0>",
+    "ja": "<0>Akiyo Nadamoto</0>"
+  },
+  "Konan University": {
+    "ko": "고난대학교",
+    "ja": "甲南大学"
+  },
+  "nadamoto@konan-u.ac.jp": {
+    "ko": "nadamoto@konan-u.ac.jp",
+    "ja": "nadamoto@konan-u.ac.jp"
+  },
+  "<0>Jongwuk Lee</0>": {
+    "ko": "<0>Jongwuk Lee</0>",
+    "ja": "<0>Jongwuk Lee</0>"
+  },
+  "SKKU": {
+    "ko": "성균관대학교",
+    "ja": "成均館大学"
+  },
+  "jongwuklee@skku.edu": {
+    "ko": "jongwuklee@skku.edu",
+    "ja": "jongwuklee@skku.edu"
+  },
+  "<0>Kyoung-Sook Kim</0>": {
+    "ko": "<0>Kyoung-Sook Kim</0>",
+    "ja": "<0>Kyoung-Sook Kim</0>"
+  },
+  "AIST": {
+    "ko": "일본 산업기술종합연구소(AIST)",
+    "ja": "産業技術総合研究所（AIST）"
+  },
+  "ks.kim@aist.go.jp": {
+    "ko": "ks.kim@aist.go.jp",
+    "ja": "ks.kim@aist.go.jp"
+  },
+  "<0>Jinhong Jung</0>": {
+    "ko": "<0>Jinhong Jung</0>",
+    "ja": "<0>Jinhong Jung</0>"
+  },
+  "Soongsil University": {
+    "ko": "숭실대학교",
+    "ja": "崇実大学"
+  },
+  "jinhong@ssu.ac.kr": {
+    "ko": "jinhong@ssu.ac.kr",
+    "ja": "jinhong@ssu.ac.kr"
+  },
+  "<0>Hamyung Park</0>": {
+    "ko": "<0>Hamyung Park</0>",
+    "ja": "<0>Hamyung Park</0>"
+  },
+  "Kookmin University": {
+    "ko": "국민대학교",
+    "ja": "国民大学"
+  },
+  "hmpark@kookmin.ac.kr": {
+    "ko": "hmpark@kookmin.ac.kr",
+    "ja": "hmpark@kookmin.ac.kr"
+  },
+  "<0>Hiroaki Ohshima</0>": {
+    "ko": "<0>Hiroaki Ohshima</0>",
+    "ja": "<0>Hiroaki Ohshima</0>"
+  },
+  "University of Hyogo": {
+    "ko": "효고현립대학교",
+    "ja": "兵庫県立大学"
+  },
+  "ohshima@ai.u-hyogo.ac.jp": {
+    "ko": "ohshima@ai.u-hyogo.ac.jp",
+    "ja": "ohshima@ai.u-hyogo.ac.jp"
+  },
+  "Web Chair": {
+    "ko": "웹 담당위원장",
+    "ja": "ウェブ担当委員長"
+  },
+  "<0>Suan Lee</0>": {
+    "ko": "<0>Suan Lee</0>",
+    "ja": "<0>Suan Lee</0>"
+  },
+  "Semyung University": {
+    "ko": "세명대학교",
+    "ja": "世明大学"
+  },
+  "suanlee@semyung.ac.kr": {
+    "ko": "suanlee@semyung.ac.kr",
+    "ja": "suanlee@semyung.ac.kr"
+  },
+  "Past KJDB workshop links.": {
+    "ko": "지난 KJDB 워크숍의 웹사이트를 안내합니다.",
+    "ja": "過去のKJDBワークショップのウェブサイトをご案内します。"
+  },
+  "Past Events | KJDB 2026": {
+    "ko": "지난 행사 | KJDB 2026",
+    "ja": "過去の開催 | KJDB 2026"
+  },
+  "Recent KJDB workshops and related archives.": {
+    "ko": "최근 KJDB 워크숍과 관련 기록을 확인하세요.",
+    "ja": "最近のKJDBワークショップと関連アーカイブをご覧ください。"
+  },
+  "Archive": {
+    "ko": "행사 기록",
+    "ja": "アーカイブ"
+  },
+  "Previous workshops": {
+    "ko": "이전 워크숍",
+    "ja": "過去のワークショップ"
+  },
+  "<0> <1>KJDB 2024</1> <2>Jeonju, Korea</2> </0> <3> <4>KJDB 2025</4> <5>Ise, Mie, Japan</5> </3> <6> <7>KJDB Working Group</7> <8>Official archive</8> </6>": {
+    "ko": "<0><1>KJDB 2024</1><2>대한민국 전주</2></0> <3><4>KJDB 2025</4><5>일본 미에현 이세</5></3> <6><7>KJDB 워킹 그룹</7><8>공식 행사 기록</8></6>",
+    "ja": "<0><1>KJDB 2024</1><2>韓国・全州</2></0> <3><4>KJDB 2025</4><5>日本・三重県伊勢市</5></3> <6><7>KJDBワーキンググループ</7><8>公式アーカイブ</8></6>"
+  },
+  "KJDB 2026 draft program for December 11–13, 2026: a keynote by Prof. Jae-Gil Lee, three research sessions, and a panel on data harness and systems for AI agents.": {
+    "ko": "2026년 12월 11~13일 KJDB 2026 프로그램 초안: Jae-Gil Lee 교수의 기조강연, 3개 연구 세션, AI 에이전트를 위한 데이터 하네스 및 시스템 패널 토론.",
+    "ja": "2026年12月11〜13日開催のKJDB 2026プログラム案：Jae-Gil Lee教授の基調講演、3つの研究セッション、AIエージェントのためのデータハーネスとシステムに関するパネル討論。"
+  },
+  "Program | KJDB 2026": {
+    "ko": "프로그램 | KJDB 2026",
+    "ja": "プログラム | KJDB 2026"
+  },
+  "December 11–13, 2026. Keynote, research talks, and a panel discussion.": {
+    "ko": "2026년 12월 11~13일. 기조강연, 연구 발표 및 패널 토론이 진행됩니다.",
+    "ja": "2026年12月11〜13日。基調講演、研究発表、パネル討論を予定しています。"
+  },
+  "Program overview": {
+    "ko": "프로그램 개요",
+    "ja": "プログラム概要"
+  },
+  "Workshop program": {
+    "ko": "워크숍 프로그램",
+    "ja": "ワークショッププログラム"
+  },
+  "Planning your arrival and departure": {
+    "ko": "도착 및 출발 일정 계획",
+    "ja": "到着・出発のご予定について"
+  },
+  "The workshop dates are December 11–13, 2026. The first day's opening time, the final day's closing time, and the daily timetable will be announced. Please check this page again before finalizing your travel plans.": {
+    "ko": "워크숍은 2026년 12월 11~13일에 개최됩니다. 첫날 개회 시각, 마지막 날 폐회 시각 및 일별 시간표는 추후 공지됩니다. 여행 일정을 확정하기 전에 이 페이지를 다시 확인해 주세요.",
+    "ja": "ワークショップは2026年12月11〜13日に開催されます。初日の開始時刻、最終日の終了時刻、各日のタイムテーブルは後日お知らせします。旅程を確定する前に、このページを再度ご確認ください。"
+  },
+  "Session order and details are subject to change. For program enquiries, contact the <0>Program Co-Chairs</0>.": {
+    "ko": "세션 순서와 세부 내용은 변경될 수 있습니다. 프로그램에 관한 문의는 <0>프로그램 공동위원장</0>에게 연락해 주세요.",
+    "ja": "セッションの順序や内容は変更される場合があります。プログラムについては、<0>プログラム共同委員長</0>にお問い合わせください。"
+  },
+  "Keynote details": {
+    "ko": "기조강연 자세히 보기",
+    "ja": "基調講演の詳細"
+  },
+  "Slot 1": {
+    "ko": "세션 1",
+    "ja": "セッション1"
+  },
+  "Personalization & User-Adaptive AI": {
+    "ko": "개인화 및 사용자 적응형 AI",
+    "ja": "パーソナライゼーションとユーザー適応型AI"
+  },
+  "How Can General-Purpose LLMs Become Better Recommenders?": {
+    "ko": "범용 LLM은 어떻게 더 나은 추천 시스템이 될 수 있을까?",
+    "ja": "汎用LLMはいかにしてより優れた推薦システムになれるか？"
+  },
+  "Prof. Kijung Shin (KAIST)": {
+    "ko": "Kijung Shin 교수 (KAIST)",
+    "ja": "Kijung Shin 教授（KAIST）"
+  },
+  "From Personalized Recommendation to Personalized Persuasion": {
+    "ko": "개인화 추천에서 개인화 설득으로",
+    "ja": "パーソナライズド推薦からパーソナライズド説得へ"
+  },
+  "Prof. Yohan Jo (Seoul National University)": {
+    "ko": "Yohan Jo 교수 (서울대학교)",
+    "ja": "Yohan Jo 教授（ソウル大学）"
+  },
+  "Slot 2": {
+    "ko": "세션 2",
+    "ja": "セッション2"
+  },
+  "Efficient Context, Retrieval & Ranking": {
+    "ko": "효율적인 컨텍스트, 검색 및 순위화",
+    "ja": "効率的なコンテキスト・検索・ランキング"
+  },
+  "LLMs Can Rank, But What Should They See? Completing, Compressing, and Personalizing Context": {
+    "ko": "LLM은 순위를 매길 수 있지만, 무엇을 봐야 할까? 컨텍스트의 보완, 압축 및 개인화",
+    "ja": "LLMはランキングできるが、何を見るべきか？コンテキストの補完・圧縮・個人化"
+  },
+  "Prof. SeongKu Kang (Korea University)": {
+    "ko": "SeongKu Kang 교수 (고려대학교)",
+    "ja": "SeongKu Kang 教授（高麗大学）"
+  },
+  "Rethinking Retrieval across Dynamic Knowledge Environments": {
+    "ko": "동적인 지식 환경에서 검색을 다시 생각하다",
+    "ja": "動的な知識環境における検索の再考"
+  },
+  "Prof. Susik Yoon (Korea University)": {
+    "ko": "Susik Yoon 교수 (고려대학교)",
+    "ja": "Susik Yoon 教授（高麗大学）"
+  },
+  "Slot 3": {
+    "ko": "세션 3",
+    "ja": "セッション3"
+  },
+  "Autonomous Agents & Specialized Models": {
+    "ko": "자율 에이전트 및 특화 모델",
+    "ja": "自律エージェントと特化型モデル"
+  },
+  "Building Better Long-Horizon Agents: From Evaluation to Optimization and Memory": {
+    "ko": "더 나은 장기 작업 에이전트 구축: 평가에서 최적화와 메모리까지",
+    "ja": "長期タスクを担うエージェントの改善：評価から最適化、メモリまで"
+  },
+  "Prof. Chanyoung Park (KAIST)": {
+    "ko": "Chanyoung Park 교수 (KAIST)",
+    "ja": "Chanyoung Park 教授（KAIST）"
+  },
+  "Anomaly Detection in the Era of Foundation Models": {
+    "ko": "파운데이션 모델 시대의 이상 탐지",
+    "ja": "基盤モデル時代の異常検知"
+  },
+  "Prof. Jaemin Yoo (Seoul National University)": {
+    "ko": "Jaemin Yoo 교수 (서울대학교)",
+    "ja": "Jaemin Yoo 教授（ソウル大学）"
+  },
+  "Panel Discussion": {
+    "ko": "패널 토론",
+    "ja": "パネル討論"
+  },
+  "Data Harness and Systems for AI Agents": {
+    "ko": "AI 에이전트를 위한 데이터 하네스 및 시스템",
+    "ja": "AIエージェントのためのデータハーネスとシステム"
+  },
+  "A discussion of data harnesses and system architectures for scaling agents under real-world constraints, including efficiency, data quality, and accelerated systems.": {
+    "ko": "효율성, 데이터 품질, 가속 시스템 등 현실 세계의 제약 속에서 에이전트를 확장하기 위한 데이터 하네스와 시스템 아키텍처를 논의합니다.",
+    "ja": "効率性、データ品質、高速化システムなどの現実世界の制約下で、エージェントを拡張するためのデータハーネスとシステムアーキテクチャについて議論します。"
+  },
+  "Panelists": {
+    "ko": "패널 참가자",
+    "ja": "パネリスト"
+  },
+  "Prof. Kwanghyun Park (Yonsei University)": {
+    "ko": "Kwanghyun Park 교수 (연세대학교)",
+    "ja": "Kwanghyun Park 教授（延世大学）"
+  },
+  "Prof. Steve Euijong Whang (KAIST)": {
+    "ko": "Steve Euijong Whang 교수 (KAIST)",
+    "ja": "Steve Euijong Whang 教授（KAIST）"
+  },
+  "Welcome reception and banquet information for KJDB 2026. The banquet is included in regular registration at no additional cost.": {
+    "ko": "KJDB 2026 환영 리셉션 및 연회 안내. 일반 등록비에는 연회가 포함되어 추가 비용이 없습니다.",
+    "ja": "KJDB 2026の歓迎レセプション・懇親会のご案内。通常参加費に懇親会費が含まれ、追加料金はかかりません。"
+  },
+  "Reception & Banquet | KJDB 2026": {
+    "ko": "리셉션 및 연회 | KJDB 2026",
+    "ja": "レセプション・懇親会 | KJDB 2026"
+  },
+  "Reception & Banquet": {
+    "ko": "리셉션 및 연회",
+    "ja": "レセプション・懇親会"
+  },
+  "Social event information for workshop participants.": {
+    "ko": "워크숍 참가자를 위한 교류 행사를 안내합니다.",
+    "ja": "ワークショップ参加者向けの交流イベントをご案内します。"
+  },
+  "Social events": {
+    "ko": "교류 행사",
+    "ja": "交流イベント"
+  },
+  "Meet and connect": {
+    "ko": "만남과 교류",
+    "ja": "出会いと交流"
+  },
+  "Welcome reception": {
+    "ko": "환영 리셉션",
+    "ja": "歓迎レセプション"
+  },
+  "The reception date, time, location, and participation arrangements will be announced.": {
+    "ko": "리셉션 날짜, 시각, 장소 및 참가 방법은 추후 공지됩니다.",
+    "ja": "レセプションの日時、会場、参加方法は後日お知らせします。"
+  },
+  "Banquet": {
+    "ko": "연회",
+    "ja": "懇親会"
+  },
+  "The banquet is included in regular registration. Participants paying the regular registration fee can attend both the workshop and the banquet at no additional cost.": {
+    "ko": "일반 등록비에는 연회가 포함됩니다. 일반 등록비를 납부한 참가자는 추가 비용 없이 워크숍과 연회에 모두 참석할 수 있습니다.",
+    "ja": "通常参加費には懇親会費が含まれています。通常参加費をお支払いの方は、追加料金なしでワークショップと懇親会の両方にご参加いただけます。"
+  },
+  "The banquet date, time, and location will be announced.": {
+    "ko": "연회 날짜, 시각 및 장소는 추후 공지됩니다.",
+    "ja": "懇親会の日時と会場は後日お知らせします。"
+  },
+  "View registration fees (banquet included)": {
+    "ko": "등록비 보기(연회 포함)",
+    "ja": "参加費を見る（懇親会費込み）"
+  },
+  "KJDB 2026 regular registration includes the banquet: Korea — KRW 500,000; Japan — JPY 57,000. Banquet only: KRW 100,000 / JPY 12,000. Online registration closes November 27, 2026, 24:00 (KST/JST).": {
+    "ko": "KJDB 2026 일반 등록비(연회 포함): 한국 500,000원 / 일본 57,000엔. 연회만 참가: 100,000원 / 12,000엔. 온라인 등록 마감: 2026년 11월 27일 24:00(KST/JST).",
+    "ja": "KJDB 2026通常参加費（懇親会費込み）：韓国500,000ウォン／日本57,000円。懇親会のみ：100,000ウォン／12,000円。オンライン登録締切：2026年11月27日24:00（KST/JST）。"
+  },
+  "Registration | KJDB 2026": {
+    "ko": "등록 안내 | KJDB 2026",
+    "ja": "参加登録 | KJDB 2026"
+  },
+  "Regular registration fees for participants from Korea and Japan include the banquet.": {
+    "ko": "한국 및 일본 참가자의 일반 등록비에는 연회가 포함됩니다.",
+    "ja": "韓国・日本からの参加者の通常参加費には懇親会費が含まれています。"
+  },
+  "Registration information": {
+    "ko": "등록 안내",
+    "ja": "参加登録のご案内"
+  },
+  "Registration open": {
+    "ko": "등록 진행 중",
+    "ja": "参加登録受付中"
+  },
+  "Online registration deadline": {
+    "ko": "온라인 등록 마감",
+    "ja": "オンライン登録締切"
+  },
+  "Online registration for both Korean and international participants closes on <0><1>November 27, 2026, 24:00 (KST/JST)</1></0>.": {
+    "ko": "국내·국외 참가자의 온라인 등록은 <0><1>2026년 11월 27일 24:00(KST/JST)</1></0>에 마감됩니다.",
+    "ja": "韓国国内・海外のいずれの参加者も、オンライン登録の締切は<0><1>2026年11月27日24:00（KST/JST）</1></0>です。"
+  },
+  "Korean Participants": {
+    "ko": "국내 참가자",
+    "ja": "韓国国内の参加者"
+  },
+  "Please register through the Korean registration page and complete the participant survey.": {
+    "ko": "국내 등록 페이지에서 참가 등록을 진행하고 참가자 설문도 작성해 주세요.",
+    "ja": "韓国国内向け登録ページで参加登録を行い、参加者アンケートにもご回答ください。"
+  },
+  "<0>Korean Registration</0>": {
+    "ko": "<0>국내 참가 등록</0>",
+    "ja": "<0>韓国国内向け参加登録</0>"
+  },
+  "To help us plan and run the event smoothly, all participants registering through the Korean registration page are kindly requested to complete the participant survey in addition to registration.": {
+    "ko": "원활한 행사 준비와 운영을 위해, 국내 등록 페이지를 통해 등록하는 모든 참가자께서는 참가 등록과 함께 참가자 설문도 작성해 주시기 바랍니다.",
+    "ja": "円滑な準備・運営のため、韓国国内向け登録ページからお申し込みの皆様には、参加登録に加えて参加者アンケートへのご回答をお願いいたします。"
+  },
+  "<0>Korean Participant Survey</0>": {
+    "ko": "<0>국내 참가자 설문</0>",
+    "ja": "<0>韓国国内参加者アンケート</0>"
+  },
+  "International Participants": {
+    "ko": "국외 참가자",
+    "ja": "海外からの参加者"
+  },
+  "Please complete the international registration form.": {
+    "ko": "국외 참가자 등록폼을 작성해 주세요.",
+    "ja": "海外参加者向けの登録フォームにご記入ください。"
+  },
+  "Payment can be made in advance by international bank transfer in Japanese yen (JPY), or on site by cash or credit card.": {
+    "ko": "등록비는 일본 엔화(JPY) 해외송금으로 사전 납부하거나, 현장에서 현금 또는 신용카드로 결제할 수 있습니다.",
+    "ja": "参加費は日本円（JPY）の海外送金による事前支払い、または当日の現金・クレジットカード払いをお選びいただけます。"
+  },
+  "Please refer to the registration form for bank account details and further instructions.": {
+    "ko": "송금 계좌와 자세한 안내는 등록폼을 참고해 주세요.",
+    "ja": "送金先口座と詳しい手続きは、登録フォームをご確認ください。"
+  },
+  "<0>International Registration Form</0>": {
+    "ko": "<0>국외 참가자 등록폼</0>",
+    "ja": "<0>海外参加者向け登録フォーム</0>"
+  },
+  "Korea <0>KRW</0>": {
+    "ko": "한국 <0>KRW</0>",
+    "ja": "韓国 <0>KRW</0>"
+  },
+  "Type": {
+    "ko": "유형",
+    "ja": "区分"
+  },
+  "Fee per person": {
+    "ko": "1인당 등록비",
+    "ja": "1名あたりの参加費"
+  },
+  "Regular (banquet included)": {
+    "ko": "일반 등록(연회 포함)",
+    "ja": "通常参加（懇親会費込み）"
+  },
+  "KRW 500,000": {
+    "ko": "KRW 500,000",
+    "ja": "KRW 500,000"
+  },
+  "Banquet only": {
+    "ko": "연회만 참가",
+    "ja": "懇親会のみ"
+  },
+  "KRW 100,000": {
+    "ko": "KRW 100,000",
+    "ja": "KRW 100,000"
+  },
+  "Japan <0>JPY</0>": {
+    "ko": "일본 <0>JPY</0>",
+    "ja": "日本 <0>JPY</0>"
+  },
+  "JPY 57,000": {
+    "ko": "JPY 57,000",
+    "ja": "JPY 57,000"
+  },
+  "JPY 12,000": {
+    "ko": "JPY 12,000",
+    "ja": "JPY 12,000"
+  },
+  "Regular registration covers both the workshop and the banquet. No additional banquet fee is required.": {
+    "ko": "일반 등록비에는 워크숍과 연회 참가비가 모두 포함됩니다. 연회 비용은 별도로 납부하지 않으셔도 됩니다.",
+    "ja": "通常参加費にはワークショップと懇親会の両方が含まれます。懇親会費を別途お支払いいただく必要はありません。"
+  },
+  "The Banquet only option is for participants attending only the banquet.": {
+    "ko": "'연회만 참가'는 워크숍 없이 연회에만 참석하는 분을 위한 항목입니다.",
+    "ja": "「懇親会のみ」は、ワークショップには参加せず、懇親会だけに出席される方のための区分です。"
+  },
+  "<0>Venue and directions</0> <1>Accommodation information</1>": {
+    "ko": "<0>행사장 및 오시는 길</0> <1>숙박 안내</1>",
+    "ja": "<0>会場・アクセス</0> <1>宿泊案内</1>"
+  },
+  "Seoul tourist information for Japanese visitors attending KJDB 2026.": {
+    "ko": "KJDB 2026에 참가하는 일본 방문객을 위한 서울 관광 안내입니다.",
+    "ja": "KJDB 2026に参加する日本からの訪問者向けソウル観光案内です。"
+  },
+  "Gyeongbokgung Palace in Seoul": {
+    "ko": "서울 경복궁",
+    "ja": "ソウルの景福宮"
+  },
+  "A busy shopping street in Myeongdong": {
+    "ko": "사람들로 붐비는 명동 쇼핑 거리",
+    "ja": "買い物客でにぎわう明洞の通り"
+  },
+  "N Seoul Tower close-up in Seoul": {
+    "ko": "서울 N서울타워의 근접 사진",
+    "ja": "ソウルのNソウルタワーの近景"
+  },
+  "Tourist Information | KJDB 2026": {
+    "ko": "관광 안내 | KJDB 2026",
+    "ja": "観光案内 | KJDB 2026"
+  },
+  "A practical Seoul guide for participants visiting from Japan.": {
+    "ko": "일본에서 방문하는 참가자를 위한 실용적인 서울 안내입니다.",
+    "ja": "日本からお越しの参加者のための、実用的なソウルガイドです。"
+  },
+  "For visitors from Japan": {
+    "ko": "일본에서 오시는 분께",
+    "ja": "日本からお越しの方へ"
+  },
+  "Start with the essentials": {
+    "ko": "기본 정보부터 확인하세요",
+    "ja": "まずは基本情報をチェック"
+  },
+  "Updated <0>Oct. 14, 2026</0>": {
+    "ko": "업데이트: <0>2026년 10월 14일</0>",
+    "ja": "更新：<0>2026年10月14日</0>"
+  },
+  "Entry": {
+    "ko": "입국",
+    "ja": "入国"
+  },
+  "Japanese passport holders": {
+    "ko": "일본 여권 소지자",
+    "ja": "日本のパスポートをお持ちの方"
+  },
+  "Japan is included in Korea's temporary K-ETA exemption through December 31, 2026. Travelers may still apply for K-ETA if they want the arrival-card benefit, but the official notice says the fee is charged in that case.": {
+    "ko": "일본은 2026년 12월 31일까지 한국의 K-ETA 한시 면제 대상에 포함됩니다. 입국신고서 제출 면제 혜택을 원하는 경우 K-ETA를 신청할 수 있으나, 공식 안내에 따르면 이 경우 수수료가 부과됩니다.",
+    "ja": "日本は2026年12月31日まで韓国のK-ETA一時免除対象に含まれています。入国申告書の提出免除を希望する場合はK-ETAを申請できますが、公式案内では、その場合は手数料がかかるとされています。"
+  },
+  "Airport transfer": {
+    "ko": "공항 이동",
+    "ja": "空港からの移動"
+  },
+  "Get to the workshop hotel": {
+    "ko": "워크숍 호텔로 오시는 길",
+    "ja": "会場ホテルへのアクセス"
+  },
+  "From Incheon Airport, bus 6005 serves Fraser Place Central; AREX connects to Seoul Station. From Gimpo Airport, Subway Line 5 connects to Seodaemun Station near the hotel.": {
+    "ko": "인천공항에서는 6005번 버스가 프레이저 플레이스 센트럴에 정차하며, 공항철도 AREX로 서울역까지 이동할 수 있습니다. 김포공항에서는 지하철 5호선으로 호텔 근처 서대문역까지 이동할 수 있습니다.",
+    "ja": "仁川空港からは6005番バスがフレイザー プレイス セントラルに停車し、空港鉄道AREXでソウル駅へも移動できます。金浦空港からは地下鉄5号線でホテル近くの西大門駅にアクセスできます。"
+  },
+  "Airport routes and hotel directions": {
+    "ko": "공항 이동 경로 및 호텔 위치",
+    "ja": "空港からのアクセス・ホテルへの道順"
+  },
+  "Payment": {
+    "ko": "결제",
+    "ja": "支払い"
+  },
+  "Carry a transit card": {
+    "ko": "교통카드를 준비하세요",
+    "ja": "交通カードを用意しましょう"
+  },
+  "Buy or recharge Tmoney at convenience stores and subway stations. Tap when entering and exiting subway gates, and tap again when getting off buses to receive transfer discounts.": {
+    "ko": "편의점과 지하철역에서 티머니 카드를 구매하거나 충전할 수 있습니다. 지하철 개찰구 출입 시 카드를 태그하고, 버스에서 내릴 때에도 태그해야 환승 할인을 받을 수 있습니다.",
+    "ja": "Tmoneyカードはコンビニや地下鉄駅で購入・チャージできます。地下鉄では改札の入場・出場時にタッチし、バスでは降車時にもタッチすると乗り継ぎ割引が適用されます。"
+  },
+  "Half-day ideas": {
+    "ko": "반나절 여행 아이디어",
+    "ja": "半日観光のアイデア"
+  },
+  "Easy Seoul routes after the workshop": {
+    "ko": "워크숍 후 가볍게 즐기는 서울",
+    "ja": "ワークショップ後に楽しむソウル散策"
+  },
+  "History route": {
+    "ko": "역사 코스",
+    "ja": "歴史散策コース"
+  },
+  "Gyeongbokgung Palace and Bukchon": {
+    "ko": "경복궁과 북촌",
+    "ja": "景福宮と北村"
+  },
+  "Start at Gyeongbokgung Station or Gwanghwamun Station, visit the palace, then walk toward Bukchon Hanok Village and Insadong. Gyeongbokgung is closed on Tuesdays, and wearing a full hanbok allows free palace admission.": {
+    "ko": "경복궁역 또는 광화문역에서 출발해 궁궐을 관람한 뒤 북촌한옥마을과 인사동으로 걸어가 보세요. 경복궁은 화요일에 휴궁하며, 한복을 갖춰 입으면 무료로 입장할 수 있습니다.",
+    "ja": "景福宮駅または光化門駅から出発し、宮殿を見学した後、北村韓屋村や仁寺洞まで歩いてみましょう。景福宮は火曜日が休宮日で、韓服を上下そろえて着用すると無料で入場できます。"
+  },
+  "Shopping route": {
+    "ko": "쇼핑 코스",
+    "ja": "ショッピングコース"
+  },
+  "Myeongdong and Namdaemun": {
+    "ko": "명동과 남대문",
+    "ja": "明洞と南大門"
+  },
+  "Myeongdong is the simplest first stop for cosmetics, fashion, street snacks, currency exchange, and Japanese-friendly service. From there, Namdaemun Market and Namsan are close by taxi or bus.": {
+    "ko": "명동은 화장품, 패션, 길거리 음식, 환전 및 일본어 응대가 가능한 서비스를 찾기 좋은 출발점입니다. 남대문시장과 남산도 택시나 버스로 가깝게 이동할 수 있습니다.",
+    "ja": "明洞は、コスメ、ファッション、屋台グルメ、両替、日本語対応のサービスを探すのに便利な出発点です。南大門市場や南山にもタクシーやバスですぐに移動できます。"
+  },
+  "Night view route": {
+    "ko": "야경 코스",
+    "ja": "夜景コース"
+  },
+  "Namsan Seoul Tower": {
+    "ko": "남산서울타워",
+    "ja": "南山ソウルタワー"
+  },
+  "A good evening plan after dinner. Take the cable car, bus, or a walk through Namsan Park for a panoramic view of Seoul. The area is popular with visitors and locals, especially around sunset.": {
+    "ko": "저녁 식사 후 방문하기 좋은 곳입니다. 케이블카, 버스 또는 남산공원 산책로를 이용해 서울의 전경을 감상해 보세요. 특히 해 질 무렵에는 여행객과 현지인 모두에게 인기가 있습니다.",
+    "ja": "夕食後の散策におすすめです。ケーブルカーやバス、南山公園の遊歩道を利用して、ソウルのパノラマを楽しめます。特に日没前後は、旅行者にも地元の人にも人気があります。"
+  },
+  "Photos: Gyeongbokgung by Grayswoodsurrey, Myeongdong by Izzatfikry99, and N Seoul Tower by Josh Hallett via Wikimedia Commons.": {
+    "ko": "사진 출처: 경복궁 — Grayswoodsurrey, 명동 — Izzatfikry99, N서울타워 — Josh Hallett, Wikimedia Commons.",
+    "ja": "写真：景福宮 — Grayswoodsurrey、明洞 — Izzatfikry99、Nソウルタワー — Josh Hallett（Wikimedia Commons）。"
+  },
+  "Travel smoothly": {
+    "ko": "편안한 여행을 위해",
+    "ja": "スムーズな旅行のために"
+  },
+  "Tips for Japanese visitors": {
+    "ko": "일본 방문객을 위한 팁",
+    "ja": "日本からの訪問者へのヒント"
+  },
+  "Before departure": {
+    "ko": "출발 전",
+    "ja": "出発前に"
+  },
+  "Save your hotel and venue addresses in Korean, English, and Japanese.": {
+    "ko": "호텔과 행사장 주소를 한국어, 영어, 일본어로 저장해 두세요.",
+    "ja": "ホテルと会場の住所を韓国語・英語・日本語で保存しておきましょう。"
+  },
+  "Install NAVER Map before arrival; it supports Japanese and is useful for subway exits and bus routes.": {
+    "ko": "도착 전에 네이버 지도를 설치해 두세요. 일본어를 지원하며 지하철 출구와 버스 경로를 찾는 데 유용합니다.",
+    "ja": "到着前にNAVERマップをインストールしておきましょう。日本語に対応しており、地下鉄の出口やバスの経路を調べる際に便利です。"
+  },
+  "A physical Tmoney card is one option for buses and subways. Tmoney is also supported in Apple Wallet on compatible devices; check the setup and top-up requirements before relying on it.": {
+    "ko": "버스와 지하철 이용 시 실물 티머니 카드를 사용할 수 있습니다. 호환 기기에서는 Apple 지갑에서도 티머니를 지원하므로, 이용 전에 설정 및 충전 요건을 확인해 주세요.",
+    "ja": "バスや地下鉄には実物のTmoneyカードを利用できます。対応機種ではAppleウォレットでもTmoneyを利用できるため、使用前に設定とチャージの条件をご確認ください。"
+  },
+  "Apple says buying or topping up Tmoney directly in Apple Wallet requires a credit or debit card issued in Korea. Check the <0>Apple guide</0> and <1>Tmoney's official guidance</1> for available methods.": {
+    "ko": "Apple 안내에 따르면 Apple 지갑에서 티머니를 직접 구매하거나 충전하려면 한국에서 발급된 신용카드 또는 체크카드가 필요합니다. 이용 가능한 방법은 <0>Apple 안내</0>와 <1>티머니 공식 안내</1>를 확인해 주세요.",
+    "ja": "Appleの案内によると、AppleウォレットでTmoneyを直接購入・チャージするには、韓国で発行されたクレジットカードまたはデビットカードが必要です。利用可能な方法は<0>Appleのガイド</0>と<1>Tmoneyの公式案内</1>をご確認ください。"
+  },
+  "Useful Japanese support": {
+    "ko": "유용한 일본어 지원 서비스",
+    "ja": "便利な日本語サポート"
+  },
+  "Call 1330 in Korea for tourist interpretation and travel help; press 3 for Japanese.": {
+    "ko": "한국에서 관광 통역 및 여행 도움이 필요하면 1330으로 전화하세요. 일본어는 3번을 누르세요.",
+    "ja": "韓国内で観光通訳や旅行のサポートが必要な場合は1330へお電話ください。日本語は3番です。"
+  },
+  "From overseas, call +82-2-1330.": {
+    "ko": "해외에서는 +82-2-1330으로 전화하세요.",
+    "ja": "海外からは+82-2-1330へお電話ください。"
+  },
+  "The official VISITKOREA app provides Korean travel information in Japanese, English, and Chinese.": {
+    "ko": "공식 VISITKOREA 앱은 일본어, 영어 및 중국어로 한국 여행 정보를 제공합니다.",
+    "ja": "公式VISITKOREAアプリでは、日本語・英語・中国語で韓国の旅行情報を提供しています。"
+  },
+  "Food and etiquette": {
+    "ko": "음식 및 예절",
+    "ja": "食事・マナー"
+  },
+  "For spicy food, ask: \"an maepge haejuseyo\" for less spicy.": {
+    "ko": "음식의 매운맛을 줄이고 싶다면 \"안 맵게 해 주세요(an maepge haejuseyo)\"라고 말해 보세요.",
+    "ja": "辛さを控えめにしたいときは「안 맵게 해주세요（アン メプケ ヘジュセヨ）」と伝えてみましょう。"
+  },
+  "At markets and small shops, keep some Korean won cash for easier payment.": {
+    "ko": "시장과 작은 상점에서 편리하게 결제할 수 있도록 원화 현금을 조금 준비하세요.",
+    "ja": "市場や小さなお店での支払いに備えて、韓国ウォンの現金を少し用意しておきましょう。"
+  },
+  "On escalators and subway platforms, follow local signs and keep luggage close during rush hour.": {
+    "ko": "에스컬레이터와 지하철 승강장에서는 현장 안내 표지를 따르고, 혼잡한 시간에는 짐을 몸 가까이 두세요.",
+    "ja": "エスカレーターや地下鉄ホームでは現地の案内表示に従い、混雑時は荷物を体の近くに置きましょう。"
+  },
+  "Official links": {
+    "ko": "공식 정보 링크",
+    "ja": "公式情報リンク"
+  },
+  "Plan with current information": {
+    "ko": "최신 정보로 여행을 준비하세요",
+    "ja": "最新情報で旅を計画"
+  },
+  "<0>K-ETA notice</0> <1>Airport to Seoul</1> <2>Seoul transportation</2> <3>1330 Japanese hotline</3>": {
+    "ko": "<0>K-ETA 안내</0> <1>공항에서 서울로</1> <2>서울 교통 안내</2> <3>1330 일본어 관광 안내</3>",
+    "ja": "<0>K-ETAのお知らせ</0> <1>空港からソウルへ</1> <2>ソウルの交通案内</2> <3>1330日本語観光案内</3>"
+  },
+  "KJDB 2026 will take place at Fraser Place Central Seoul, 78 Tongil-ro, Jung-gu, Seoul, Korea. Find the address, map, and travel information.": {
+    "ko": "KJDB 2026은 대한민국 서울특별시 중구 통일로 78, 프레이저 플레이스 센트럴 서울에서 개최됩니다. 주소, 지도 및 교통 정보를 확인하세요.",
+    "ja": "KJDB 2026は韓国ソウル特別市中区統一路78のフレイザー プレイス セントラル ソウルで開催されます。住所、地図、アクセスをご確認ください。"
+  },
+  "Fraser Place Central Seoul exterior with the hotel name on its curved facade": {
+    "ko": "곡선 외벽에 호텔명이 표시된 프레이저 플레이스 센트럴 서울의 외관",
+    "ja": "曲面の外壁にホテル名が掲げられたフレイザー プレイス セントラル ソウルの外観"
+  },
+  "Venue | KJDB 2026": {
+    "ko": "행사장 안내 | KJDB 2026",
+    "ja": "会場案内 | KJDB 2026"
+  },
+  "Meet us at Fraser Place Central Seoul, December 11–13, 2026.": {
+    "ko": "2026년 12월 11~13일, 프레이저 플레이스 센트럴 서울에서 만나요.",
+    "ja": "2026年12月11〜13日、フレイザー プレイス セントラル ソウルでお会いしましょう。"
+  },
+  "Fraser Place Central Seoul · Photo: <0>Frasers Hospitality / official hotel website</0>": {
+    "ko": "프레이저 플레이스 센트럴 서울 · 사진: <0>Frasers Hospitality / 호텔 공식 웹사이트</0>",
+    "ja": "フレイザー プレイス セントラル ソウル · 写真：<0>Frasers Hospitality／ホテル公式サイト</0>"
+  },
+  "Location": {
+    "ko": "위치",
+    "ja": "所在地"
+  },
+  "KJDB 2026 will be held at Fraser Place Central Seoul in Jung-gu, central Seoul. The venue hotel also offers accommodation for participants planning their stay.": {
+    "ko": "KJDB 2026은 서울 도심 중구에 위치한 프레이저 플레이스 센트럴 서울에서 개최됩니다. 행사장 호텔에서 참가자를 위한 숙박도 이용할 수 있습니다.",
+    "ja": "KJDB 2026はソウル中心部の中区にあるフレイザー プレイス セントラル ソウルで開催されます。会場ホテルでは宿泊もご利用いただけます。"
+  },
+  "View accommodation information": {
+    "ko": "숙박 정보 보기",
+    "ja": "宿泊情報を見る"
+  },
+  "Venue address": {
+    "ko": "행사장 주소",
+    "ja": "会場住所"
+  },
+  "78 Tongil-ro, Jung-gu, Seoul 04517, Korea<0/> <1>서울특별시 중구 통일로 78, 04517</1>": {
+    "ko": "78 Tongil-ro, Jung-gu, Seoul 04517, Korea<0/> <1>서울특별시 중구 통일로 78, 04517</1>",
+    "ja": "韓国 ソウル特別市 中区 統一路78（〒04517）<0/> <1>서울특별시 중구 통일로 78, 04517</1>"
+  },
+  "+82 2 2220 8888": {
+    "ko": "+82 2 2220 8888",
+    "ja": "+82 2 2220 8888"
+  },
+  "<0>Open map</0> <1>Official hotel website</1>": {
+    "ko": "<0>지도 열기</0> <1>호텔 공식 웹사이트</1>",
+    "ja": "<0>地図を開く</0> <1>ホテル公式サイト</1>"
+  },
+  "Travel": {
+    "ko": "교통",
+    "ja": "交通"
+  },
+  "Getting to the venue": {
+    "ko": "행사장 오시는 길",
+    "ja": "会場へのアクセス"
+  },
+  "Incheon Airport (ICN)": {
+    "ko": "인천국제공항(ICN)",
+    "ja": "仁川国際空港（ICN）"
+  },
+  "Airport limousine bus 6005": {
+    "ko": "공항 리무진 6005번",
+    "ja": "空港リムジンバス6005番"
+  },
+  "Take bus 6005 from Terminal 1 or Terminal 2 and get off at <0>Fraser Place Central</0>. The operator also lists a Fraser Place Namdaemun stop, so check the hotel name before getting off.": {
+    "ko": "제1터미널 또는 제2터미널에서 6005번 버스를 타고 <0>프레이저 플레이스 센트럴</0> 정류장에서 하차하세요. 프레이저 플레이스 남대문 정류장도 있으니 내리기 전에 호텔명을 확인해 주세요.",
+    "ja": "第1または第2ターミナルから6005番バスに乗り、<0>フレイザー プレイス セントラル</0>で下車してください。フレイザー プレイス 南大門の停留所もありますので、降車前にホテル名をご確認ください。"
+  },
+  "The published adult fare is <0>KRW 17,000</0>. Check your terminal's boarding location and the current timetable before travelling; journey times depend on traffic.": {
+    "ko": "공시된 성인 요금은 <0>17,000원</0>입니다. 출발 전에 이용 터미널의 승차 위치와 최신 시간표를 확인해 주세요. 소요 시간은 교통 상황에 따라 달라집니다.",
+    "ja": "公表されている大人運賃は<0>17,000ウォン</0>です。ご利用のターミナルの乗り場と最新の時刻表を事前にご確認ください。所要時間は交通状況によって異なります。"
+  },
+  "<0>6005 route and timetable</0> <1>Airport boarding locations</1>": {
+    "ko": "<0>6005번 노선 및 시간표</0> <1>공항 승차 위치</1>",
+    "ja": "<0>6005番の路線・時刻表</0> <1>空港の乗り場</1>"
+  },
+  "Gimpo Airport (GMP)": {
+    "ko": "김포국제공항(GMP)",
+    "ja": "金浦国際空港（GMP）"
+  },
+  "Subway Line 5 to Seodaemun": {
+    "ko": "지하철 5호선으로 서대문역까지",
+    "ja": "地下鉄5号線で西大門駅へ"
+  },
+  "Take Line 5 from Gimpo Airport toward central Seoul and get off at <0>Seodaemun Station</0>. Leave through Exit 6 and follow the map to the hotel, approximately a seven-minute walk.": {
+    "ko": "김포공항에서 서울 도심 방면 지하철 5호선을 타고 <0>서대문역</0>에서 하차하세요. 6번 출구로 나와 지도를 따라 약 7분 정도 걸으면 호텔에 도착합니다.",
+    "ja": "金浦空港からソウル中心部方面の地下鉄5号線に乗り、<0>西大門駅</0>で下車してください。6番出口から地図に沿って徒歩約7分でホテルに到着します。"
+  },
+  "Gimpo Airport subway guide": {
+    "ko": "김포공항 지하철 이용 안내",
+    "ja": "金浦空港の地下鉄案内"
+  },
+  "Rail connections": {
+    "ko": "철도 연계",
+    "ja": "鉄道でのアクセス"
+  },
+  "Via Seoul Station": {
+    "ko": "서울역 경유",
+    "ja": "ソウル駅経由"
+  },
+  "The AREX airport railway connects Incheon Airport with Seoul Station. From Seoul Station, take a taxi to the hotel, or take Subway Line 1 to City Hall and use Exit 10.": {
+    "ko": "공항철도 AREX는 인천공항과 서울역을 연결합니다. 서울역에서 호텔까지 택시를 이용하거나, 지하철 1호선을 타고 시청역에서 하차해 10번 출구를 이용하세요.",
+    "ja": "空港鉄道AREXは仁川空港とソウル駅を結んでいます。ソウル駅からホテルまではタクシーを利用するか、地下鉄1号線で市庁駅まで移動し、10番出口をご利用ください。"
+  },
+  "Seoul's airport transport guide": {
+    "ko": "서울시 공항 교통 안내",
+    "ja": "ソウル市の空港交通ガイド"
+  },
+  "The final walk": {
+    "ko": "호텔까지 도보 이동",
+    "ja": "ホテルまでの徒歩アクセス"
+  },
+  "Nearby subway exits": {
+    "ko": "가까운 지하철 출구",
+    "ja": "最寄りの地下鉄出口"
+  },
+  "<0>Seodaemun, Line 5:</0> Exit 6, about seven minutes on foot.": {
+    "ko": "<0>서대문역, 5호선:</0> 6번 출구에서 도보 약 7분.",
+    "ja": "<0>西大門駅・5号線：</0>6番出口から徒歩約7分。"
+  },
+  "<0>City Hall, Lines 1 and 2:</0> Exit 10, about seven minutes on foot.": {
+    "ko": "<0>시청역, 1·2호선:</0> 10번 출구에서 도보 약 7분.",
+    "ja": "<0>市庁駅・1、2号線：</0>10番出口から徒歩約7分。"
+  },
+  "These walking estimates are from the hotel. If you need a step-free route or airport pickup, contact the hotel before arrival.": {
+    "ko": "도보 소요 시간은 호텔 안내를 기준으로 합니다. 계단 없는 이동 경로나 공항 픽업이 필요하면 도착 전에 호텔에 문의해 주세요.",
+    "ja": "徒歩所要時間はホテルの案内に基づいています。段差のない経路や空港送迎が必要な場合は、到着前にホテルにお問い合わせください。"
+  },
+  "Hotel access guide": {
+    "ko": "호텔 오시는 길 안내",
+    "ja": "ホテルのアクセス案内"
+  },
+  "Transport information checked on <0>October 14, 2026</0>. Fares and services may change; use the official links above when planning your trip.": {
+    "ko": "교통 정보 확인일: <0>2026년 10월 14일</0>. 요금과 운행 정보는 변경될 수 있으므로, 여행 계획 시 위의 공식 링크를 확인해 주세요.",
+    "ja": "交通情報の確認日：<0>2026年10月14日</0>。運賃や運行内容は変更される場合があります。旅程を立てる際は、上記の公式リンクをご確認ください。"
+  },
+  "Show this address to your taxi driver": {
+    "ko": "택시 기사님께 이 주소를 보여 주세요",
+    "ja": "タクシーの運転手にこの住所をお見せください"
+  },
+  "Fraser Place Central Seoul · 78 Tongil-ro, Jung-gu, Seoul · <0>+82 2 2220 8888</0>": {
+    "ko": "프레이저 플레이스 센트럴 서울 · 서울특별시 중구 통일로 78 · <0>+82 2 2220 8888</0>",
+    "ja": "フレイザー プレイス セントラル ソウル · ソウル特別市 中区 統一路78 · <0>+82 2 2220 8888</0>"
+  },
+  "Workshop room details": {
+    "ko": "워크숍 회의실 안내",
+    "ja": "ワークショップ会議室のご案内"
+  },
+  "The meeting room, floor, and on-site check-in location will be announced before the workshop.": {
+    "ko": "회의실, 층수 및 현장 등록 위치는 워크숍 전에 공지됩니다.",
+    "ja": "会議室、フロア、当日の受付場所は、開催前にお知らせします。"
+  }
+}
