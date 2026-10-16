@@ -383,6 +383,37 @@ p {
   padding: 26px;
 }
 
+.registration-options {
+  margin: 22px 0 34px;
+}
+
+.registration-card p,
+.fee-note {
+  color: var(--muted);
+}
+
+.registration-card p + p,
+.registration-actions + p,
+.fee-note {
+  margin-top: 16px;
+}
+
+.registration-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.registration-actions .button {
+  text-align: center;
+}
+
+.registration-actions .button.secondary {
+  border-color: var(--teal);
+  color: var(--teal-dark);
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
