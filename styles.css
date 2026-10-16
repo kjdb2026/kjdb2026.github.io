@@ -843,11 +843,6 @@ td:last-child {
   gap: 16px;
 }
 
-.tourist-overview,
-.practical-section {
-  width: min(920px, calc(100% - 36px));
-}
-
 .tourist-overview .section-heading,
 .practical-section .section-heading,
 .tourist-photo-section .section-heading {
@@ -907,14 +902,12 @@ td:last-child {
 
 .tourist-photo-section {
   width: 100%;
-  padding-right: 18px;
-  padding-left: 18px;
   background: #eef3f1;
 }
 
 .tourist-photo-section .section-heading,
 .photo-grid {
-  width: min(920px, 100%);
+  width: min(1120px, calc(100% - 36px));
   margin-right: auto;
   margin-left: auto;
 }
@@ -948,7 +941,7 @@ td:last-child {
 }
 
 .photo-credit {
-  width: min(920px, 100%);
+  width: min(1120px, calc(100% - 36px));
   margin: 16px auto 0;
   color: var(--muted);
   font-size: 13px;
@@ -971,7 +964,7 @@ td:last-child {
 
 .source-box {
   display: grid;
-  width: min(920px, 100%);
+  width: 100%;
   margin-right: auto;
   margin-left: auto;
   grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
