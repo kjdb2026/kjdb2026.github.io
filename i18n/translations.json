@@ -299,9 +299,9 @@
     "ko": "발표와 세션 주제는 프로그램 초안에서 확인할 수 있습니다. 일별 시작 및 종료 시각은 추후 공지됩니다.",
     "ja": "講演とセッションのテーマはプログラム案でご確認いただけます。各日の開始・終了時刻は後日お知らせします。"
   },
-  "View the draft program": {
-    "ko": "프로그램 초안 보기",
-    "ja": "プログラム案を見る"
+  "View the program": {
+    "ko": "프로그램 보기",
+    "ja": "プログラムを見る"
   },
   "Travel and accommodation": {
     "ko": "교통 및 숙박",
@@ -347,9 +347,9 @@
     "ko": "워크숍 안내",
     "ja": "ワークショップのご案内"
   },
-  "<0> <1>Keynote</1> <2>Invited talks</2> </0> <3> <4>Registration</4> <5>Fees and participation</5> </3> <6> <7>Program</7> <8>Draft program</8> </6> <9> <10>Venue</10> <11>Fraser Place Central Seoul</11> </9> <12> <13>Accommodation</13> <14>Venue hotel and reservations</14> </12> <15> <16>Tourist Information</16> <17>Explore Seoul</17> </15> <18> <19>Reception</19> <20>Welcome event</20> </18>": {
-    "ko": "<0><1>기조강연</1><2>초청 강연</2></0> <3><4>등록 안내</4><5>등록비 및 참가 안내</5></3> <6><7>프로그램</7><8>프로그램 초안</8></6> <9><10>행사장 안내</10><11>프레이저 플레이스 센트럴 서울</11></9> <12><13>숙박 안내</13><14>행사장 호텔 및 예약</14></12> <15><16>관광 안내</16><17>서울 둘러보기</17></15> <18><19>리셉션</19><20>환영 행사</20></18>",
-    "ja": "<0><1>基調講演</1><2>招待講演</2></0> <3><4>参加登録</4><5>参加費・参加案内</5></3> <6><7>プログラム</7><8>プログラム案</8></6> <9><10>会場案内</10><11>フレイザー プレイス セントラル ソウル</11></9> <12><13>宿泊案内</13><14>会場ホテル・予約</14></12> <15><16>観光案内</16><17>ソウルを楽しむ</17></15> <18><19>レセプション</19><20>歓迎イベント</20></18>"
+  "<0> <1>Keynote</1> <2>Invited talks</2> </0> <3> <4>Registration</4> <5>Fees and participation</5> </3> <6> <7>Program</7> <8>Workshop schedule</8> </6> <9> <10>Venue</10> <11>Fraser Place Central Seoul</11> </9> <12> <13>Accommodation</13> <14>Venue hotel and reservations</14> </12> <15> <16>Tourist Information</16> <17>Explore Seoul</17> </15> <18> <19>Reception</19> <20>Welcome event</20> </18>": {
+    "ko": "<0><1>기조강연</1><2>초청 강연</2></0> <3><4>등록 안내</4><5>등록비 및 참가 안내</5></3> <6><7>프로그램</7><8>워크숍 일정</8></6> <9><10>행사장 안내</10><11>프레이저 플레이스 센트럴 서울</11></9> <12><13>숙박 안내</13><14>행사장 호텔 및 예약</14></12> <15><16>관광 안내</16><17>서울 둘러보기</17></15> <18><19>리셉션</19><20>환영 행사</20></18>",
+    "ja": "<0><1>基調講演</1><2>招待講演</2></0> <3><4>参加登録</4><5>参加費・参加案内</5></3> <6><7>プログラム</7><8>開催日程</8></6> <9><10>会場案内</10><11>フレイザー プレイス セントラル ソウル</11></9> <12><13>宿泊案内</13><14>会場ホテル・予約</14></12> <15><16>観光案内</16><17>ソウルを楽しむ</17></15> <18><19>レセプション</19><20>歓迎イベント</20></18>"
   },
   "KJDB 2026 | Korea-Japan (Japan-Korea) Database Workshop 2026": {
     "ko": "KJDB 2026 | 2026 한일(일한) 데이터베이스 워크숍",
@@ -382,10 +382,6 @@
   "Keynote speaker": {
     "ko": "기조강연 연사",
     "ja": "基調講演者"
-  },
-  "Draft program": {
-    "ko": "프로그램 초안",
-    "ja": "プログラム案"
   },
   "Adaptive Intelligence under Real-World Constraints": {
     "ko": "현실 세계의 제약 속에서 구현하는 적응형 지능",
@@ -1287,13 +1283,13 @@
     "ko": "본 프로그램: 2026년 12월 12~13일",
     "ja": "本プログラム：2026年12月12〜13日"
   },
-  "The first draft includes two keynotes, three research sessions, a panel, and the banquet. Opening is at 09:00 on December 12; lunch and the group meeting end at 17:00 on December 13 (KST).": {
-    "ko": "1차 구성안에는 기조강연 2개, 연구 세션 3개, 패널 토론 및 연회가 포함됩니다. 개회는 12월 12일 09:00이며, 점심 및 그룹 미팅은 12월 13일 17:00에 종료됩니다(KST).",
-    "ja": "第1次案には、基調講演2件、研究セッション3件、パネル討論、懇親会が含まれます。開会は12月12日09:00、昼食・グループミーティングの終了は12月13日17:00です（KST）。"
+  "The program includes two keynotes, three research sessions, a panel, and the banquet. Opening is at 09:00 on December 12; lunch and the group meeting end at 17:00 on December 13 (KST).": {
+    "ko": "프로그램에는 기조강연 2개, 연구 세션 3개, 패널 토론 및 연회가 포함됩니다. 개회는 12월 12일 09:00이며, 점심 및 그룹 미팅은 12월 13일 17:00에 종료됩니다(KST).",
+    "ja": "プログラムには、基調講演2件、研究セッション3件、パネル討論、懇親会が含まれます。開会は12月12日09:00、昼食・グループミーティングの終了は12月13日17:00です（KST）。"
   },
-  "Program update: the first timetable for December 12–13 is now available. Session chairs and remaining details will be announced.": {
-    "ko": "프로그램 업데이트: 12월 12~13일의 1차 시간표가 공개되었습니다. 세션 좌장 및 나머지 세부 사항은 추후 공지됩니다.",
-    "ja": "プログラム更新：12月12〜13日の第1次タイムテーブルを公開しました。セッション座長とその他の詳細は後日お知らせします。"
+  "Program update: the timetable for December 12–13 is now available. Session chairs and remaining details will be announced.": {
+    "ko": "프로그램 업데이트: 12월 12~13일의 시간표가 공개되었습니다. 세션 좌장 및 나머지 세부 사항은 추후 공지됩니다.",
+    "ja": "プログラム更新：12月12〜13日のタイムテーブルを公開しました。セッション座長とその他の詳細は後日お知らせします。"
   },
   "KJDB 2026 keynotes: Jae-Gil Lee (KAIST), December 12 at 09:10, and Masatoshi Yoshikawa (Osaka Seikei University), December 13 at 09:00. Preliminary schedule, KST.": {
     "ko": "KJDB 2026 기조강연: Jae-Gil Lee(KAIST), 12월 12일 09:10 / Masatoshi Yoshikawa(오사카세이케이대학교), 12월 13일 09:00. 잠정 일정이며 시각은 KST 기준입니다.",
@@ -1306,10 +1302,6 @@
   "Keynote speakers": {
     "ko": "기조강연 연사",
     "ja": "基調講演者"
-  },
-  "First draft": {
-    "ko": "1차 구성안",
-    "ja": "第1次案"
   },
   "Keynote 1": {
     "ko": "기조강연 1",
@@ -1348,7 +1340,7 @@
     "ja": "講演概要と追加の講演者情報は後日お知らせします。日程は暫定で、基調講演2のタイトルは仮題です。"
   },
   "KJDB 2026 preliminary program for December 12–13, 2026: two keynotes, three research sessions, a panel, the banquet, and group meetings. All times are KST (UTC+9).": {
-    "ko": "KJDB 2026의 2026년 12월 12~13일 프로그램 1차 구성안: 기조강연 2개, 연구 세션 3개, 패널 토론, 연회 및 그룹 미팅. 모든 시각은 KST(UTC+9) 기준입니다.",
+    "ko": "KJDB 2026의 2026년 12월 12~13일 잠정 프로그램: 기조강연 2개, 연구 세션 3개, 패널 토론, 연회 및 그룹 미팅. 모든 시각은 KST(UTC+9) 기준입니다.",
     "ja": "2026年12月12〜13日開催のKJDB 2026プログラム案：基調講演2件、研究セッション3件、パネル討論、懇親会、グループミーティング。時刻はすべてKST（UTC+9）です。"
   },
   "Program days": {
@@ -1363,9 +1355,9 @@
     "ko": "잠정 시간표",
     "ja": "暫定タイムテーブル"
   },
-  "This is the first draft. Session chairs, the moderator, and one panelist are to be announced. Times and details are subject to change.": {
-    "ko": "프로그램 1차 구성안입니다. 세션 좌장, 패널 사회자 및 패널 참가자 1명은 추후 공지됩니다. 시간과 세부 내용은 변경될 수 있습니다.",
-    "ja": "プログラムの第1次案です。セッション座長、パネル司会者、パネリスト1名は後日お知らせします。時刻や内容は変更される場合があります。"
+  "Session chairs, the moderator, and one panelist are to be announced. Times and details are subject to change.": {
+    "ko": "세션 좌장, 패널 사회자 및 패널 참가자 1명은 추후 공지됩니다. 시간과 세부 내용은 변경될 수 있습니다.",
+    "ja": "セッション座長、パネル司会者、パネリスト1名は後日お知らせします。時刻や内容は変更される場合があります。"
   },
   "All times are in Korea Standard Time (KST, UTC+9), the same as Japan Standard Time (JST).": {
     "ko": "모든 시각은 한국 표준시(KST, UTC+9) 기준이며, 일본 표준시(JST)와 동일합니다.",
