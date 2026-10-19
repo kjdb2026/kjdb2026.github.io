@@ -3,9 +3,9 @@
     "ko": "전체 행사 기간은 2026년 12월 11~13일이며, 본 프로그램은 12월 12~13일에 진행됩니다.",
     "ja": "全体の開催期間は2026年12月11〜13日で、本プログラムは12月12〜13日に行われます。"
   },
-  "Plan your KJDB 2026 stay at Fraser Place Central Seoul, the workshop venue hotel. Find hotel contact details and reservation information.": {
-    "ko": "KJDB 2026 행사장인 프레이저 플레이스 센트럴 서울에서의 숙박을 준비하세요. 호텔 연락처와 예약 정보를 안내합니다.",
-    "ja": "KJDB 2026の会場ホテル、フレイザー プレイス セントラル ソウルでの宿泊をご案内します。ホテルの連絡先と予約情報をご確認ください。"
+  "Plan your KJDB 2026 stay at Fraser Place Central Seoul, the workshop venue hotel. Find reservation information and nearby hotels with approximate travel times to the venue.": {
+    "ko": "KJDB 2026 행사장인 프레이저 플레이스 센트럴 서울에서의 숙박을 준비하세요. 예약 정보와 주변 호텔, 행사장까지의 예상 이동 시간을 안내합니다.",
+    "ja": "KJDB 2026の会場ホテル、フレイザー プレイス セントラル ソウルでの宿泊をご案内します。予約情報と周辺のホテル、会場までのおおよその所要時間をご確認ください。"
   },
   "KJDB 2026 home": {
     "ko": "KJDB 2026 홈",
@@ -147,9 +147,93 @@
     "ko": "워크숍 숙박 관련 안내",
     "ja": "ワークショップの宿泊手配について"
   },
-  "KJDB 2026 group rates, room blocks, and a dedicated booking procedure have not yet been announced. Any workshop-specific reservation guidance will be posted here once confirmed.": {
-    "ko": "KJDB 2026 단체 요금, 확보 객실 및 전용 예약 절차는 아직 공지되지 않았습니다. 워크숍 참가자를 위한 예약 안내가 확정되면 이 페이지에 게시하겠습니다.",
-    "ja": "KJDB 2026の団体料金、確保客室、専用の予約手続きはまだ発表されていません。参加者向けの予約案内が確定しましたら、このページに掲載します。"
+  "Participants who wish to stay at Fraser Place Central Seoul, the workshop venue, from December 11 to 13, 2026, are encouraged to indicate their interest in one of the following surveys.": {
+    "ko": "2026년 12월 11일부터 13일까지 워크숍 행사장인 프레이저 플레이스 센트럴 서울에서 숙박을 희망하시는 참가자께서는 아래 설문 중 하나를 통해 숙박 의사를 알려 주시기 바랍니다.",
+    "ja": "2026年12月11日から13日まで、ワークショップ会場のフレイザー プレイス セントラル ソウルでの宿泊をご希望の参加者は、以下のいずれかのアンケートで宿泊のご希望をお知らせください。"
+  },
+  "Korean participant survey: <0>https://forms.gle/ijdDwswxf2hBarGu8</0>": {
+    "ko": "한국 참가자 설문: <0>https://forms.gle/ijdDwswxf2hBarGu8</0>",
+    "ja": "韓国の参加者向けアンケート：<0>https://forms.gle/ijdDwswxf2hBarGu8</0>"
+  },
+  "Japanese participant survey: <0>https://forms.gle/mf5BU8FG5ukahhjU9</0>": {
+    "ko": "일본 참가자 설문: <0>https://forms.gle/mf5BU8FG5ukahhjU9</0>",
+    "ja": "日本の参加者向けアンケート：<0>https://forms.gle/mf5BU8FG5ukahhjU9</0>"
+  },
+  "How to arrange your accommodation:": {
+    "ko": "숙박 예약 절차:",
+    "ja": "宿泊手配の手順："
+  },
+  "Select \"Yes\" for the accommodation question in the form.": {
+    "ko": "설문 양식의 숙박 관련 질문에서 \"Yes\"를 선택해 주세요.",
+    "ja": "フォームの宿泊に関する質問で「Yes」を選択してください。"
+  },
+  "The organizing committee will connect you directly with the hotel's reservation manager.": {
+    "ko": "조직위원회에서 호텔 예약 담당자와 직접 연결해 드립니다.",
+    "ja": "組織委員会がホテルの予約担当者に直接おつなぎします。"
+  },
+  "You can then book your room directly with the hotel at a special discounted rate for KJDB 2026 participants.": {
+    "ko": "이후 KJDB 2026 참가자를 위한 특별 할인 요금으로 호텔에 직접 객실을 예약하실 수 있습니다.",
+    "ja": "その後、KJDB 2026参加者向けの特別割引料金で、ホテルに直接お部屋をご予約いただけます。"
+  },
+  "<0>Please note:</0> Selecting \"Yes\" does not constitute a confirmed hotel reservation. Discounted reservations are subject to room availability and may no longer be possible once the available rooms are fully booked.": {
+    "ko": "<0>유의 사항:</0> \"Yes\"를 선택하는 것만으로 호텔 예약이 확정되지는 않습니다. 할인 요금 예약은 객실 상황에 따라 가능하며, 준비된 객실이 모두 예약되면 더 이상 이용이 어려울 수 있습니다.",
+    "ja": "<0>ご注意：</0>「Yes」を選択しただけでは、ホテルの予約は確定しません。割引料金でのご予約は空室状況によって異なり、対象のお部屋が満室となった場合はご利用いただけなくなることがあります。"
+  },
+  "For any questions regarding accommodation arrangements, please contact <0>jinhong@ssu.ac.kr</0>.": {
+    "ko": "숙박 예약과 관련한 문의 사항은 <0>jinhong@ssu.ac.kr</0>로 연락해 주세요.",
+    "ja": "宿泊手配に関するご質問は、<0>jinhong@ssu.ac.kr</0>までお問い合わせください。"
+  },
+  "Other accommodation options": {
+    "ko": "추가 숙박 정보",
+    "ja": "その他の宿泊施設"
+  },
+  "Hotels near the venue": {
+    "ko": "행사장 주변 호텔",
+    "ja": "会場周辺のホテル"
+  },
+  "Approximate travel times between each hotel and Fraser Place Central Seoul, the workshop venue.": {
+    "ko": "각 호텔과 행사장인 프레이저 플레이스 센트럴 서울 간의 예상 이동 시간입니다.",
+    "ja": "各ホテルと会場のフレイザー プレイス セントラル ソウル間のおおよその所要時間です。"
+  },
+  "Ramada Hotel and Suites Seoul Namdaemun": {
+    "ko": "라마다호텔앤스위트서울남대문",
+    "ja": "ラマダ ホテル＆スイーツ ソウル南大門"
+  },
+  "Shilla Stay Seodaemun": {
+    "ko": "신라스테이 서대문",
+    "ja": "新羅ステイ西大門"
+  },
+  "THE PLAZA Seoul, Autograph Collection": {
+    "ko": "더 플라자 호텔 서울",
+    "ja": "ザ・プラザ・ソウル、オートグラフ コレクション"
+  },
+  "Hotel President": {
+    "ko": "프레지던트 호텔",
+    "ja": "プレジデントホテル"
+  },
+  "Walking": {
+    "ko": "도보",
+    "ja": "徒歩"
+  },
+  "Public transport": {
+    "ko": "대중교통",
+    "ja": "公共交通機関"
+  },
+  "About 5 minutes": {
+    "ko": "약 5분",
+    "ja": "約5分"
+  },
+  "About 10 minutes": {
+    "ko": "약 10분",
+    "ja": "約10分"
+  },
+  "About 15 minutes": {
+    "ko": "약 15분",
+    "ja": "約15分"
+  },
+  "About 20 minutes": {
+    "ko": "약 20분",
+    "ja": "約20分"
   },
   "Planning your stay": {
     "ko": "숙박 계획",
@@ -1287,9 +1371,9 @@
     "ko": "프로그램에는 기조강연 2개, 연구 세션 3개, 패널 토론 및 연회가 포함됩니다. 개회는 12월 12일 09:00이며, 점심 및 그룹 미팅은 12월 13일 17:00에 종료됩니다(KST).",
     "ja": "プログラムには、基調講演2件、研究セッション3件、パネル討論、懇親会が含まれます。開会は12月12日09:00、昼食・グループミーティングの終了は12月13日17:00です（KST）。"
   },
-  "Program update: the timetable for December 12–13 is now available. Session chairs and remaining details will be announced.": {
-    "ko": "프로그램 업데이트: 12월 12~13일의 시간표가 공개되었습니다. 세션 좌장 및 나머지 세부 사항은 추후 공지됩니다.",
-    "ja": "プログラム更新：12月12〜13日のタイムテーブルを公開しました。セッション座長とその他の詳細は後日お知らせします。"
+  "Program update: on December 12, lunch (12:00–13:00) will be a lunch buffet at Panorama Lounge & Bar, 23F, and the banquet (19:00–21:00) will be a dinner buffet at First Floor, 1F.": {
+    "ko": "프로그램 업데이트: 12월 12일 점심(12:00–13:00)은 Panorama Lounge & Bar, 23층에서 런치 뷔페로, 연회(19:00–21:00)는 First Floor, 1층에서 디너 뷔페로 제공됩니다.",
+    "ja": "プログラム更新：12月12日の昼食（12:00–13:00）はPanorama Lounge & Bar、23階でのランチビュッフェ、懇親会（19:00–21:00）はFirst Floor、1階でのディナービュッフェとなります。"
   },
   "KJDB 2026 keynotes: Jae-Gil Lee (KAIST), December 12 at 09:10, and Masatoshi Yoshikawa (Osaka Seikei University), December 13 at 09:00. Preliminary schedule, KST.": {
     "ko": "KJDB 2026 기조강연: Jae-Gil Lee(KAIST), 12월 12일 09:10 / Masatoshi Yoshikawa(오사카세이케이대학교), 12월 13일 09:00. 잠정 일정이며 시각은 KST 기준입니다.",
@@ -1423,9 +1507,13 @@
     "ko": "Katsumi Tanaka (간세이가쿠인대학교) [JP]",
     "ja": "Katsumi Tanaka（関西学院大学）[JP]"
   },
-  "Lunch (lunch box served at the venue)": {
-    "ko": "점심(행사장에서 도시락 제공)",
-    "ja": "昼食（会場でお弁当を提供）"
+  "Lunch (Lunch Buffet at Panorama Lounge & Bar, 23F)": {
+    "ko": "점심(Panorama Lounge & Bar, 23층 런치 뷔페)",
+    "ja": "昼食（Panorama Lounge & Bar、23階でのランチビュッフェ）"
+  },
+  "Banquet (Dinner Buffet at First Floor, 1F)": {
+    "ko": "연회(First Floor, 1층 디너 뷔페)",
+    "ja": "懇親会（First Floor、1階でのディナービュッフェ）"
   },
   "Self-introduction for Non-speakers": {
     "ko": "비발표 참가자 자기소개",
@@ -1519,9 +1607,9 @@
     "ko": "점심 및 그룹 미팅",
     "ja": "昼食・グループミーティング"
   },
-  "<0>Saturday, December 12, 2026</0> · <1>19:00</1>–<2>21:00</2> (KST). The banquet venue will be announced.": {
-    "ko": "<0>2026년 12월 12일 토요일</0> · <1>19:00</1>–<2>21:00</2> (KST). 연회 장소는 추후 공지됩니다.",
-    "ja": "<0>2026年12月12日（土）</0> · <1>19:00</1>–<2>21:00</2>（KST）。懇親会の会場は後日お知らせします。"
+  "<0>Saturday, December 12, 2026</0> · <1>19:00</1>–<2>21:00</2> (KST). Dinner Buffet at First Floor, 1F.": {
+    "ko": "<0>2026년 12월 12일 토요일</0> · <1>19:00</1>–<2>21:00</2> (KST). First Floor, 1층에서 디너 뷔페가 제공됩니다.",
+    "ja": "<0>2026年12月12日（土）</0> · <1>19:00</1>–<2>21:00</2>（KST）。First Floor、1階でのディナービュッフェです。"
   },
   "View the banquet in the program": {
     "ko": "프로그램에서 연회 일정 보기",
