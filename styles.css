@@ -1386,3 +1386,8 @@ td:last-child {
     padding: 64px 0;
   }
 }
+
+/* Preserve the full portraits across the supplied aspect ratios. */
+.executive-committee .committee-photo {
+  object-fit: contain;
+}

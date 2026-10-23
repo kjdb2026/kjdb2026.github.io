@@ -1678,5 +1678,133 @@
   "<0>12:30</0> – <1>17:00</1>": {
     "ko": "<0>12:30</0> – <1>17:00</1>",
     "ja": "<0>12:30</0> – <1>17:00</1>"
+  },
+  "Day 0: December 11 (Friday)": {
+    "ko": "Day 0: 12월 11일 (금요일)",
+    "ja": "Day 0: 12月11日（金曜日）"
+  },
+  "<0>Welcome Reception</0>": {
+    "ko": "<0>환영 리셉션</0>",
+    "ja": "<0>ウェルカムレセプション</0>"
+  },
+  "Honorary Co-Chairs": {
+    "ko": "명예 공동위원장",
+    "ja": "名誉共同委員長"
+  },
+  "Executive Committee": {
+    "ko": "운영위원회",
+    "ja": "運営委員会"
+  },
+  "Advisor": {
+    "ko": "고문",
+    "ja": "顧問"
+  },
+  "Chair": {
+    "ko": "위원장",
+    "ja": "委員長"
+  },
+  "Vice Chair": {
+    "ko": "부위원장",
+    "ja": "副委員長"
+  },
+  "Secretary": {
+    "ko": "간사",
+    "ja": "幹事"
+  },
+  "Kyu-Young Whang": {
+    "ko": "Kyu-Young Whang",
+    "ja": "Kyu-Young Whang"
+  },
+  "Katsumi Tanaka": {
+    "ko": "Katsumi Tanaka",
+    "ja": "Katsumi Tanaka"
+  },
+  "Masaru Kitsuregawa": {
+    "ko": "Masaru Kitsuregawa",
+    "ja": "Masaru Kitsuregawa"
+  },
+  "Jinho Kim": {
+    "ko": "Jinho Kim",
+    "ja": "Jinho Kim"
+  },
+  "Hiroyuki Kitagawa": {
+    "ko": "Hiroyuki Kitagawa",
+    "ja": "Hiroyuki Kitagawa"
+  },
+  "Masatoshi Yoshikawa": {
+    "ko": "Masatoshi Yoshikawa",
+    "ja": "Masatoshi Yoshikawa"
+  },
+  "Young-Kuk Kim": {
+    "ko": "Young-Kuk Kim",
+    "ja": "Young-Kuk Kim"
+  },
+  "Kazutoshi Sumiya": {
+    "ko": "Kazutoshi Sumiya",
+    "ja": "Kazutoshi Sumiya"
+  },
+  "Yang-Sae Moon": {
+    "ko": "Yang-Sae Moon",
+    "ja": "Yang-Sae Moon"
+  },
+  "Jae-Gil Lee": {
+    "ko": "Jae-Gil Lee",
+    "ja": "Jae-Gil Lee"
+  },
+  "Korea Advanced Institute of Science and Technology (KAIST), Korea": {
+    "ko": "한국과학기술원(KAIST), 한국",
+    "ja": "韓国科学技術院（KAIST）、韓国"
+  },
+  "The University of Fukuchiyama, Kyoto University, Japan": {
+    "ko": "후쿠치야마 공립대학, 교토대학교, 일본",
+    "ja": "福知山公立大学、京都大学、日本"
+  },
+  "University of Tokyo, Japan": {
+    "ko": "도쿄대학교, 일본",
+    "ja": "東京大学、日本"
+  },
+  "Kangwon National University, Korea": {
+    "ko": "강원대학교, 한국",
+    "ja": "江原大学校、韓国"
+  },
+  "University of Tsukuba, Japan": {
+    "ko": "쓰쿠바대학교, 일본",
+    "ja": "筑波大学、日本"
+  },
+  "Osaka Seikei University, Kyoto University, Japan": {
+    "ko": "오사카 세이케이대학교, 교토대학교, 일본",
+    "ja": "大阪成蹊大学、京都大学、日本"
+  },
+  "Chungnam National University, Korea": {
+    "ko": "충남대학교, 한국",
+    "ja": "忠南大学校、韓国"
+  },
+  "Kwansei Gakuin University, Japan": {
+    "ko": "간세이가쿠인대학교, 일본",
+    "ja": "関西学院大学、日本"
+  },
+  "Konan University, Japan": {
+    "ko": "고난대학교, 일본",
+    "ja": "甲南大学、日本"
+  },
+  "December 11–13, 2026. A welcome reception, two keynotes, three research sessions, and a panel discussion.": {
+    "ko": "2026년 12월 11~13일. 환영 리셉션, 기조강연 2개, 연구 세션 3개, 패널 토론으로 구성됩니다.",
+    "ja": "2026年12月11〜13日。ウェルカムレセプション、基調講演2件、研究セッション3件、パネルディスカッションを予定しています。"
+  },
+  "KJDB 2026 preliminary program for December 11–13, 2026: a welcome reception, two keynotes, three research sessions, a panel, the banquet, and group meetings. All times are KST (UTC+9).": {
+    "ko": "2026년 12월 11~13일 KJDB 2026 예비 프로그램: 환영 리셉션, 기조강연 2개, 연구 세션 3개, 패널 토론, 만찬, 그룹 미팅. 모든 시간은 한국 표준시(KST, UTC+9)입니다.",
+    "ja": "2026年12月11〜13日のKJDB 2026暫定プログラム：ウェルカムレセプション、基調講演2件、研究セッション3件、パネル、懇親会、グループミーティング。時刻はすべて韓国標準時（KST、UTC+9）です。"
+  },
+  "<0>Friday, December 11, 2026</0> · <1>19:00</1>–<2>21:00</2> (KST).": {
+    "ko": "<0>2026년 12월 11일 금요일</0> · <1>19:00</1>–<2>21:00</2> (KST).",
+    "ja": "<0>2026年12月11日（金）</0> · <1>19:00</1>–<2>21:00</2>（KST）。"
+  },
+  "The reception location and participation arrangements will be announced.": {
+    "ko": "리셉션 장소와 참가 안내는 추후 공지됩니다.",
+    "ja": "レセプションの会場と参加方法は後日お知らせします。"
+  },
+  "View the welcome reception in the program": {
+    "ko": "프로그램에서 환영 리셉션 보기",
+    "ja": "プログラムでウェルカムレセプションを確認"
   }
 }

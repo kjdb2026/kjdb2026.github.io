@@ -1,0 +1,72 @@
+{
+  "checked_on": "2026-10-23",
+  "method": "Compared image files linked to named public profiles; no face-based identity inference. Normalized comparisons use 128x128 RGB images.",
+  "photos": [
+    {
+      "name": "Kyu-Young Whang",
+      "file": "assets/Kyu-Young Whang.png",
+      "source_page": "https://sites.google.com/view/kjdb2024/organization",
+      "result": "Decoded image pixels match the named source image."
+    },
+    {
+      "name": "Katsumi Tanaka",
+      "file": "assets/Katsumi Tanaka.png",
+      "source_page": "https://sites.google.com/view/kjdb2024/organization",
+      "result": "Decoded image pixels match the named source image."
+    },
+    {
+      "name": "Masaru Kitsuregawa",
+      "file": "assets/Masaru Kitsuregawa.png",
+      "source_page": "https://sites.google.com/view/kjdb2024/organization",
+      "result": "Decoded image pixels match the named source image."
+    },
+    {
+      "name": "Jinho Kim",
+      "file": "assets/Jinho Kim.png",
+      "source_page": "https://sites.google.com/view/kjdb2024/organization",
+      "result": "Decoded image pixels match the named source image."
+    },
+    {
+      "name": "Hiroyuki Kitagawa",
+      "file": "assets/Hiroyuki Kitagawa.png",
+      "source_page": "https://sites.google.com/view/kjdb2024/organization",
+      "result": "Decoded image pixels match the named source image."
+    },
+    {
+      "name": "Kazutoshi Sumiya",
+      "file": "assets/Kazutoshi Sumiya.jpeg",
+      "source_page": "https://researchers.kwansei.ac.jp/view?l=en&u=200000223",
+      "result": "Decoded image pixels match the named source image."
+    },
+    {
+      "name": "Akiyo Nadamoto",
+      "file": "assets/Akiyo Nadamoto .jfif",
+      "source_page": "https://researchers.adm.konan-u.ac.jp/html/237_en.html",
+      "result": "Decoded image pixels match the named source image. Also byte-identical to existing assets/akiyonadamoto.jfif."
+    },
+    {
+      "name": "Young-Kuk Kim",
+      "file": "assets/Young-Kuk Kim.png",
+      "source_page": "https://sdlab.cnu.ac.kr/ko/members/young-kuk-kim",
+      "result": "Near-identical source image after resizing; mean absolute RGB difference below 1/255 per channel."
+    },
+    {
+      "name": "Masatoshi Yoshikawa",
+      "file": "assets/Masatoshi Yoshikawa.jpg",
+      "source_page": "https://yoshikawa-mas.github.io/index.html",
+      "result": "Same dimensions; near-identical image with mean absolute RGB difference about 0.69/255 after normalization."
+    },
+    {
+      "name": "Jae-Gil Lee",
+      "file": "assets/Jae-Gil Lee.avif",
+      "source_page": "https://dm.kaist.ac.kr/jaegil/",
+      "result": "Same dimensions as the named JaeGilLee2.jpg image variant; mean absolute RGB difference 1.10–1.35/255 per channel."
+    },
+    {
+      "name": "Yang-Sae Moon",
+      "file": "assets/Yang-Sae Moon.png",
+      "source_page": "https://cse.kangwon.ac.kr/cse/professor/professor.do",
+      "result": "Not conclusively verified: named faculty thumbnail differs in resolution and pixels (normalized mean absolute RGB difference about 6.8/255). Retained the user-supplied file; manual source confirmation recommended."
+    }
+  ]
+}
