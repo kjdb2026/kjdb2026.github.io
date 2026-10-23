@@ -1387,7 +1387,10 @@ td:last-child {
   }
 }
 
-/* Preserve the full portraits across the supplied aspect ratios. */
+/* Keep executive portraits square, with the crop anchored near the top. */
 .executive-committee .committee-photo {
-  object-fit: contain;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center top;
 }
