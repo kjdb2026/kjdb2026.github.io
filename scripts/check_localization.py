@@ -73,8 +73,12 @@ def check():
         assert len(nodes(document, "img")) == len(nodes(original, "img")), path
         if path.name == "registration.html":
             amounts = [content_text(node) for node in nodes(document, "td")]
-            assert amounts == ["KRW 500,000", "KRW 100,000", "JPY 57,000", "JPY 12,000"], path
-            assert values(document, "time", "datetime") == ["2026-11-28T00:00:00+09:00"], path
+            assert amounts == ["KRW 500,000", "KRW 600,000", "KRW 100,000", "JPY 57,000", "JPY 68,400", "JPY 12,000"], path
+            assert values(document, "time", "datetime") == [
+                "2026-11-18T00:00:00+09:00",  # November 17, 24:00: early bird ends.
+                "2026-11-18T00:00:00+09:00",  # November 18, 00:00: standard fees begin.
+                "2026-12-02T00:00:00+09:00",  # December 1, 24:00: online registration ends.
+            ], path
     print(f"PASS: {len(files)} pages; locale routes, language links, anchors, assets, external URLs, dates and fees.")
 
 
