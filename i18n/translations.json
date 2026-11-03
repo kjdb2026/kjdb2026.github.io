@@ -355,10 +355,6 @@
     "ko": "KJDB 2026은 데이터 관리, AI, 정보 검색, 데이터 마이닝, 차세대 데이터베이스 시스템 분야에서 활발한 토론, 초기 연구 교류 및 협력을 이어갑니다.",
     "ja": "KJDB 2026は、データ管理、AI、情報検索、データマイニング、新たなデータベースシステムの分野において、活発な議論、初期段階の研究交流、共同研究の伝統を受け継ぎます。"
   },
-  "<0>Early bird registration through November 17</0> <1>Early bird through November 17, 2026: KRW 500,000 / JPY 57,000. November 18–December 1: KRW 600,000 / JPY 68,400 (20% increase). Both rates include the banquet. Online registration closes December 1 (KST/JST).</1>": {
-    "ko": "<0>얼리버드 등록은 11월 17일까지</0> <1>2026년 11월 17일까지 얼리버드: 500,000원 / 57,000엔. 11월 18일~12월 1일: 600,000원 / 68,400엔(20% 인상). 두 기간 모두 등록비에 연회가 포함됩니다. 온라인 등록 마감은 12월 1일(KST/JST)입니다.</1>",
-    "ja": "<0>早期登録は11月17日まで</0> <1>2026年11月17日までの早期登録：500,000ウォン／57,000円。11月18日～12月1日：600,000ウォン／68,400円（20%増額）。どちらの期間も参加費に懇親会費が含まれます。オンライン登録締切は12月1日（KST/JST）です。</1>"
-  },
   "View registration fees": {
     "ko": "등록비 보기",
     "ja": "参加費を見る"
@@ -891,10 +887,6 @@
     "ko": "등록비 보기(연회 포함)",
     "ja": "参加費を見る（懇親会費込み）"
   },
-  "KJDB 2026 registration (banquet included): early bird through November 17, 2026 — KRW 500,000 / JPY 57,000; November 18–December 1 — KRW 600,000 / JPY 68,400 (20% increase). Online registration closes December 1, 2026, 24:00 (KST/JST).": {
-    "ko": "KJDB 2026 등록비(연회 포함): 2026년 11월 17일까지 얼리버드 500,000원 / 57,000엔, 11월 18일~12월 1일 600,000원 / 68,400엔(20% 인상). 온라인 등록 마감: 2026년 12월 1일 24:00(KST/JST).",
-    "ja": "KJDB 2026参加費（懇親会費込み）：2026年11月17日までの早期登録は500,000ウォン／57,000円、11月18日～12月1日は600,000ウォン／68,400円（20%増額）。オンライン登録締切：2026年12月1日24:00（KST/JST）。"
-  },
   "Registration | KJDB 2026": {
     "ko": "등록 안내 | KJDB 2026",
     "ja": "参加登録 | KJDB 2026"
@@ -910,18 +902,6 @@
   "Registration open": {
     "ko": "등록 진행 중",
     "ja": "参加登録受付中"
-  },
-  "Early bird and registration deadline": {
-    "ko": "얼리버드 기간 및 등록 마감",
-    "ja": "早期登録期間・登録締切"
-  },
-  "Early bird registration at current rates is available through <0><1>November 17, 2026, 24:00 (KST/JST)</1></0>.": {
-    "ko": "<0><1>2026년 11월 17일 24:00(KST/JST)</1></0>까지는 현재 요금으로 얼리버드 등록이 가능합니다.",
-    "ja": "<0><1>2026年11月17日24:00（KST/JST）</1></0>までは、現行料金で早期登録を受け付けます。"
-  },
-  "Regular registration fees increase by 20% from <0><1>November 18</1> through <2>December 1, 2026, 24:00 (KST/JST)</2></0>. Online registration for both Korean and international participants closes at the end of this period.": {
-    "ko": "<0><1>11월 18일</1>부터 <2>2026년 12월 1일 24:00(KST/JST)</2></0>까지는 일반 등록비가 20% 인상됩니다. 이 기간이 끝나면 국내·국외 참가자의 온라인 등록이 모두 마감됩니다.",
-    "ja": "<0><1>11月18日</1>から<2>2026年12月1日24:00（KST/JST）</2></0>までは、通常参加費を20%増額します。この期間の終了とともに、韓国国内・海外のすべての参加者のオンライン登録を締め切ります。"
   },
   "Korean Participants": {
     "ko": "국내 참가자",
@@ -975,14 +955,6 @@
     "ko": "1인당 등록비",
     "ja": "1名あたりの参加費"
   },
-  "Early bird (banquet included)<0/>Through November 17": {
-    "ko": "얼리버드(연회 포함)<0/>11월 17일까지",
-    "ja": "早期登録（懇親会費込み）<0/>11月17日まで"
-  },
-  "Standard (banquet included)<0/>November 18–December 1": {
-    "ko": "일반 등록(연회 포함)<0/>11월 18일~12월 1일",
-    "ja": "通常登録（懇親会費込み）<0/>11月18日～12月1日"
-  },
   "KRW 600,000": {
     "ko": "KRW 600,000",
     "ja": "KRW 600,000"
@@ -1018,10 +990,6 @@
   "Regular registration covers both the workshop and the banquet. No additional banquet fee is required.": {
     "ko": "일반 등록비에는 워크숍과 연회 참가비가 모두 포함됩니다. 연회 비용은 별도로 납부하지 않으셔도 됩니다.",
     "ja": "通常参加費にはワークショップと懇親会の両方が含まれます。懇親会費を別途お支払いいただく必要はありません。"
-  },
-  "The Banquet only option is for participants attending only the banquet.": {
-    "ko": "'연회만 참가'는 워크숍 없이 연회에만 참석하는 분을 위한 항목입니다.",
-    "ja": "「懇親会のみ」は、ワークショップには参加せず、懇親会だけに出席される方のための区分です。"
   },
   "<0>Venue and directions</0> <1>Accommodation information</1>": {
     "ko": "<0>행사장 및 오시는 길</0> <1>숙박 안내</1>",
@@ -1822,5 +1790,81 @@
   "View the welcome reception in the program": {
     "ko": "프로그램에서 환영 리셉션 보기",
     "ja": "プログラムでウェルカムレセプションを確認"
+  },
+  "Co-hosted academic conference": {
+    "ko": "공동개최 학술대회",
+    "ja": "共催学術会議"
+  },
+  "Seoul National University logo": {
+    "ko": "서울대학교 로고",
+    "ja": "ソウル大学校のロゴ"
+  },
+  "This academic conference is jointly organized by the KJDB Organization Committee and Seoul National University.": {
+    "ko": "본 행사는 KJDB Organization Committee와 서울대학교에서 공동으로 개최하는 학술대회입니다.",
+    "ja": "本学術会議は、KJDB Organization Committeeとソウル大学校が共同で開催します。"
+  },
+  "<0>Early-Bird Registration through November 17</0> <1>Early-Bird Registration through November 17, 2026: Regular Registration KRW 500,000 / JPY 57,000; Banquet Only KRW 100,000 / JPY 12,000 per person. Late-Bird Registration, November 18–December 1: all fees increase by 20%. Regular Registration includes the banquet. Online registration closes December 1 (KST/JST).</1>": {
+    "ko": "<0>Early-Bird 등록은 11월 17일까지</0> <1>2026년 11월 17일까지 Early-Bird 등록: 일반 등록 500,000원 / 57,000엔, 연회만 참가 1인당 100,000원 / 12,000엔. 11월 18일~12월 1일 Late-Bird 등록: 모든 등록비가 20% 인상됩니다. 일반 등록비에는 연회가 포함됩니다. 온라인 등록 마감은 12월 1일(KST/JST)입니다.</1>",
+    "ja": "<0>Early-Bird 登録は11月17日まで</0> <1>2026年11月17日までのEarly-Bird 登録：通常参加登録500,000ウォン／57,000円、懇親会のみ1名あたり100,000ウォン／12,000円。11月18日～12月1日のLate-Bird 登録：すべての参加費を20%増額します。通常参加登録には懇親会費が含まれます。オンライン登録締切は12月1日（KST/JST）です。</1>"
+  },
+  "KJDB 2026 Early-Bird Registration through November 17, 2026: Regular Registration KRW 500,000 / JPY 57,000; Banquet Only KRW 100,000 / JPY 12,000 per person. Late-Bird Registration, November 18–December 1: Regular Registration KRW 600,000 / JPY 68,400; Banquet Only KRW 120,000 / JPY 14,400 (all fees increase by 20%).": {
+    "ko": "KJDB 2026 Early-Bird 등록(2026년 11월 17일까지): 일반 등록 500,000원 / 57,000엔, 연회만 참가 1인당 100,000원 / 12,000엔. Late-Bird 등록(11월 18일~12월 1일): 일반 등록 600,000원 / 68,400엔, 연회만 참가 120,000원 / 14,400엔(모든 등록비 20% 인상).",
+    "ja": "KJDB 2026 Early-Bird 登録（2026年11月17日まで）：通常参加登録500,000ウォン／57,000円、懇親会のみ1名あたり100,000ウォン／12,000円。Late-Bird 登録（11月18日～12月1日）：通常参加登録600,000ウォン／68,400円、懇親会のみ120,000ウォン／14,400円（すべて20%増額）。"
+  },
+  "Registration periods and deadlines": {
+    "ko": "등록 기간 및 마감",
+    "ja": "登録期間・締切"
+  },
+  "Early-Bird Registration at current rates is available through <0><1>November 17, 2026, 24:00 (KST/JST)</1></0>.": {
+    "ko": "<0><1>2026년 11월 17일 24:00(KST/JST)</1></0>까지는 현재 요금으로 Early-Bird 등록이 가능합니다.",
+    "ja": "<0><1>2026年11月17日24:00（KST/JST）</1></0>までは、現行料金でEarly-Bird 登録を受け付けます。"
+  },
+  "Late-Bird Registration applies from <0><1>November 18</1> through <2>December 1, 2026, 24:00 (KST/JST)</2></0>. Both Regular Registration and Banquet Only fees increase by 20%. Online registration for both Korean and international participants closes at the end of this period.": {
+    "ko": "<0><1>11월 18일</1>부터 <2>2026년 12월 1일 24:00(KST/JST)</2></0>까지는 Late-Bird 등록 기간입니다. 일반 등록과 연회만 참가하는 경우 모두 등록비가 20% 인상됩니다. 이 기간이 끝나면 국내·국외 참가자의 온라인 등록이 모두 마감됩니다.",
+    "ja": "<0><1>11月18日</1>から<2>2026年12月1日24:00（KST/JST）</2></0>まではLate-Bird 登録期間です。通常参加登録・懇親会のみのいずれも参加費を20%増額します。この期間の終了とともに、韓国国内・海外のすべての参加者のオンライン登録を締め切ります。"
+  },
+  "Early-Bird Registration": {
+    "ko": "Early-Bird 등록",
+    "ja": "Early-Bird 登録"
+  },
+  "Late-Bird Registration": {
+    "ko": "Late-Bird 등록",
+    "ja": "Late-Bird 登録"
+  },
+  "Deadline: <0>November 17, 2026</0>": {
+    "ko": "마감: <0>2026년 11월 17일</0>",
+    "ja": "締切：<0>2026年11月17日</0>"
+  },
+  "Deadline: <0>December 1, 2026</0>": {
+    "ko": "마감: <0>2026년 12월 1일</0>",
+    "ja": "締切：<0>2026年12月1日</0>"
+  },
+  "Regular Registration": {
+    "ko": "일반 등록",
+    "ja": "通常参加登録"
+  },
+  "Banquet Only (per person)": {
+    "ko": "연회만 참가(1인당)",
+    "ja": "懇親会のみ（1名あたり）"
+  },
+  "The Banquet Only option is for participants attending only the banquet. All deadlines are at 24:00 (KST/JST).": {
+    "ko": "'연회만 참가'는 워크숍 없이 연회에만 참석하는 분을 위한 항목입니다. 모든 등록 마감 시각은 해당일 24:00(KST/JST)입니다.",
+    "ja": "「懇親会のみ」は、ワークショップには参加せず、懇親会だけに出席される方のための区分です。すべての登録締切時刻は当日の24:00（KST/JST）です。"
+  },
+  "KRW 600,000 <0>(20% increase)</0>": {
+    "ko": "KRW 600,000 <0>(20% 인상)</0>",
+    "ja": "KRW 600,000 <0>（20%増額）</0>"
+  },
+  "KRW 120,000 <0>(20% increase)</0>": {
+    "ko": "KRW 120,000 <0>(20% 인상)</0>",
+    "ja": "KRW 120,000 <0>（20%増額）</0>"
+  },
+  "JPY 68,400 <0>(20% increase)</0>": {
+    "ko": "JPY 68,400 <0>(20% 인상)</0>",
+    "ja": "JPY 68,400 <0>（20%増額）</0>"
+  },
+  "JPY 14,400 <0>(20% increase)</0>": {
+    "ko": "JPY 14,400 <0>(20% 인상)</0>",
+    "ja": "JPY 14,400 <0>（20%増額）</0>"
   }
 }
