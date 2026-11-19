@@ -1811,37 +1811,41 @@
     "ko": "본 행사는 KJDB Organization Committee와 서울대학교에서 공동으로 개최하는 학술대회입니다.",
     "ja": "本学術会議は、KJDB Organization Committeeとソウル大学校が共同で開催します。"
   },
-  "<0>Early-Bird Registration through November 17</0> <1>Early-Bird Registration through November 17, 2026: Regular Registration KRW 500,000 / JPY 57,000; Banquet Only KRW 100,000 / JPY 12,000 per person. Late-Bird Registration, November 18–December 1: all fees increase by 20%. Regular Registration includes the banquet. Online registration closes December 1 (KST/JST).</1>": {
-    "ko": "<0>Early-Bird 등록은 11월 17일까지</0> <1>2026년 11월 17일까지 Early-Bird 등록: 일반 등록 500,000원 / 57,000엔, 연회만 참가 1인당 100,000원 / 12,000엔. 11월 18일~12월 1일 Late-Bird 등록: 모든 등록비가 20% 인상됩니다. 일반 등록비에는 연회가 포함됩니다. 온라인 등록 마감은 12월 1일(KST/JST)입니다.</1>",
-    "ja": "<0>Early-Bird 登録は11月17日まで</0> <1>2026年11月17日までのEarly-Bird 登録：通常参加登録500,000ウォン／57,000円、懇親会のみ1名あたり100,000ウォン／12,000円。11月18日～12月1日のLate-Bird 登録：すべての参加費を20%増額します。通常参加登録には懇親会費が含まれます。オンライン登録締切は12月1日（KST/JST）です。</1>"
+  "<0>Late-Bird Registration through December 1</0> <1>November 18–December 1, 2026: Regular Registration KRW 600,000 / JPY 68,400; Banquet Only KRW 120,000 / JPY 14,400 per person. Regular Registration includes the banquet. Online registration closes December 1 (KST/JST).</1>": {
+    "ko": "<0>Late-Bird 등록은 12월 1일까지</0> <1>2026년 11월 18일~12월 1일: 일반 등록 600,000원 / 68,400엔, 연회만 참가 1인당 120,000원 / 14,400엔. 일반 등록비에는 연회가 포함됩니다. 온라인 등록 마감은 12월 1일(KST/JST)입니다.</1>",
+    "ja": "<0>Late-Bird 登録は12月1日まで</0> <1>2026年11月18日～12月1日：通常参加登録600,000ウォン／68,400円、懇親会のみ1名あたり120,000ウォン／14,400円。通常参加登録には懇親会費が含まれます。オンライン登録締切は12月1日（KST/JST）です。</1>"
   },
-  "KJDB 2026 Early-Bird Registration through November 17, 2026: Regular Registration KRW 500,000 / JPY 57,000; Banquet Only KRW 100,000 / JPY 12,000 per person. Late-Bird Registration, November 18–December 1: Regular Registration KRW 600,000 / JPY 68,400; Banquet Only KRW 120,000 / JPY 14,400 (all fees increase by 20%).": {
-    "ko": "KJDB 2026 Early-Bird 등록(2026년 11월 17일까지): 일반 등록 500,000원 / 57,000엔, 연회만 참가 1인당 100,000원 / 12,000엔. Late-Bird 등록(11월 18일~12월 1일): 일반 등록 600,000원 / 68,400엔, 연회만 참가 120,000원 / 14,400엔(모든 등록비 20% 인상).",
-    "ja": "KJDB 2026 Early-Bird 登録（2026年11月17日まで）：通常参加登録500,000ウォン／57,000円、懇親会のみ1名あたり100,000ウォン／12,000円。Late-Bird 登録（11月18日～12月1日）：通常参加登録600,000ウォン／68,400円、懇親会のみ120,000ウォン／14,400円（すべて20%増額）。"
+  "KJDB 2026 Late-Bird Registration, November 18–December 1, 2026: Regular Registration KRW 600,000 / JPY 68,400; Banquet Only KRW 120,000 / JPY 14,400 per person. Early-Bird Registration has closed. Online registration closes December 1 (KST/JST).": {
+    "ko": "KJDB 2026 Late-Bird 등록(2026년 11월 18일~12월 1일): 일반 등록 600,000원 / 68,400엔, 연회만 참가 1인당 120,000원 / 14,400엔. Early-Bird 등록은 마감되었습니다. 온라인 등록 마감은 12월 1일(KST/JST)입니다.",
+    "ja": "KJDB 2026 Late-Bird 登録（2026年11月18日～12月1日）：通常参加登録600,000ウォン／68,400円、懇親会のみ1名あたり120,000ウォン／14,400円。Early-Bird 登録は終了しました。オンライン登録締切は12月1日（KST/JST）です。"
+  },
+  "Late-Bird Registration open": {
+    "ko": "Late-Bird 등록 접수 중",
+    "ja": "Late-Bird 登録受付中"
   },
   "Registration periods and deadlines": {
     "ko": "등록 기간 및 마감",
     "ja": "登録期間・締切"
   },
-  "Early-Bird Registration at current rates is available through <0><1>November 17, 2026, 24:00 (KST/JST)</1></0>.": {
-    "ko": "<0><1>2026년 11월 17일 24:00(KST/JST)</1></0>까지는 현재 요금으로 Early-Bird 등록이 가능합니다.",
-    "ja": "<0><1>2026年11月17日24:00（KST/JST）</1></0>までは、現行料金でEarly-Bird 登録を受け付けます。"
+  "Early-Bird Registration closed on <0><1>November 17, 2026, 24:00 (KST/JST)</1></0>.": {
+    "ko": "Early-Bird 등록은 <0><1>2026년 11월 17일 24:00(KST/JST)</1></0>에 마감되었습니다.",
+    "ja": "Early-Bird 登録は<0><1>2026年11月17日24:00（KST/JST）</1></0>に終了しました。"
   },
-  "Late-Bird Registration applies from <0><1>November 18</1> through <2>December 1, 2026, 24:00 (KST/JST)</2></0>. Both Regular Registration and Banquet Only fees increase by 20%. Online registration for both Korean and international participants closes at the end of this period.": {
-    "ko": "<0><1>11월 18일</1>부터 <2>2026년 12월 1일 24:00(KST/JST)</2></0>까지는 Late-Bird 등록 기간입니다. 일반 등록과 연회만 참가하는 경우 모두 등록비가 20% 인상됩니다. 이 기간이 끝나면 국내·국외 참가자의 온라인 등록이 모두 마감됩니다.",
-    "ja": "<0><1>11月18日</1>から<2>2026年12月1日24:00（KST/JST）</2></0>まではLate-Bird 登録期間です。通常参加登録・懇親会のみのいずれも参加費を20%増額します。この期間の終了とともに、韓国国内・海外のすべての参加者のオンライン登録を締め切ります。"
+  "Late-Bird Registration applies from <0><1>November 18</1> through <2>December 1, 2026, 24:00 (KST/JST)</2></0>. Both Regular Registration and Banquet Only fees are 20% higher than Early-Bird rates. Online registration for both Korean and international participants closes at the end of this period.": {
+    "ko": "<0><1>11월 18일</1>부터 <2>2026년 12월 1일 24:00(KST/JST)</2></0>까지는 Late-Bird 등록 기간입니다. 일반 등록과 연회만 참가하는 경우 모두 Early-Bird 대비 20% 인상된 등록비가 적용됩니다. 이 기간이 끝나면 국내·국외 참가자의 온라인 등록이 모두 마감됩니다.",
+    "ja": "<0><1>11月18日</1>から<2>2026年12月1日24:00（KST/JST）</2></0>まではLate-Bird 登録期間です。通常参加登録・懇親会のみのいずれもEarly-Bird料金から20%増額した参加費が適用されます。この期間の終了とともに、韓国国内・海外のすべての参加者のオンライン登録を締め切ります。"
   },
-  "Early-Bird Registration": {
-    "ko": "Early-Bird 등록",
-    "ja": "Early-Bird 登録"
+  "Early-Bird Registration (Closed)": {
+    "ko": "Early-Bird 등록 (마감)",
+    "ja": "Early-Bird 登録（受付終了）"
   },
   "Late-Bird Registration": {
     "ko": "Late-Bird 등록",
     "ja": "Late-Bird 登録"
   },
-  "Deadline: <0>November 17, 2026</0>": {
-    "ko": "마감: <0>2026년 11월 17일</0>",
-    "ja": "締切：<0>2026年11月17日</0>"
+  "Closed: <0>November 17, 2026</0>": {
+    "ko": "마감일: <0>2026년 11월 17일</0>",
+    "ja": "受付終了日：<0>2026年11月17日</0>"
   },
   "Deadline: <0>December 1, 2026</0>": {
     "ko": "마감: <0>2026년 12월 1일</0>",
