@@ -611,7 +611,7 @@
     "ko": "<0>Jongwuk Lee</0>",
     "ja": "<0>Jongwuk Lee</0>"
   },
-  "SKKU": {
+  "Sungkyunkwan University": {
     "ko": "성균관대학교",
     "ja": "成均館大学"
   },
@@ -1383,17 +1383,25 @@
     "ko": "<0>2026년 12월 12일 토요일</0> · <1>09:10</1>–<2>10:10</2> (KST)",
     "ja": "<0>2026年12月12日（土）</0> · <1>09:10</1>–<2>10:10</2>（KST）"
   },
-  "Session Chair: TBD": {
-    "ko": "좌장: 미정",
-    "ja": "座長：未定"
+  "Session Chair: Kijung Shin (KAIST)": {
+    "ko": "좌장: Kijung Shin (KAIST)",
+    "ja": "座長：Kijung Shin（KAIST）"
   },
-  "Session Chair: Akiyo Nadamoto": {
-    "ko": "좌장: Akiyo Nadamoto",
-    "ja": "座長：Akiyo Nadamoto"
+  "Session Chair: Jaemin Yoo (SNU)": {
+    "ko": "좌장: Jaemin Yoo (SNU)",
+    "ja": "座長：Jaemin Yoo（SNU）"
   },
-  "Session Chair: Kyoungsook KIM": {
-    "ko": "좌장: Kyoungsook KIM",
-    "ja": "座長：Kyoungsook KIM"
+  "Session Chair: Jongwuk Lee (SKKU)": {
+    "ko": "좌장: Jongwuk Lee (SKKU)",
+    "ja": "座長：Jongwuk Lee（SKKU）"
+  },
+  "Session Chair: Akiyo Nadamoto (Konan Univ.)": {
+    "ko": "좌장: Akiyo Nadamoto (Konan Univ.)",
+    "ja": "座長：Akiyo Nadamoto（Konan Univ.）"
+  },
+  "Session Chair: Kyoungsook Kim (AIST)": {
+    "ko": "좌장: Kyoungsook Kim (AIST)",
+    "ja": "座長：Kyoungsook Kim（AIST）"
   },
   "Keynote 2": {
     "ko": "기조강연 2",
@@ -1431,9 +1439,9 @@
     "ko": "잠정 시간표",
     "ja": "暫定タイムテーブル"
   },
-  "The remaining session chairs and the moderator are to be announced. Times and details are subject to change.": {
-    "ko": "나머지 세션 좌장과 패널 사회자는 추후 공지됩니다. 시간과 세부 내용은 변경될 수 있습니다.",
-    "ja": "残りのセッション座長とパネル司会者は後日お知らせします。時刻や内容は変更される場合があります。"
+  "Times and details are subject to change.": {
+    "ko": "시간과 세부 내용은 변경될 수 있습니다.",
+    "ja": "時刻や内容は変更される場合があります。"
   },
   "All times are in Korea Standard Time (KST, UTC+9), the same as Japan Standard Time (JST).": {
     "ko": "모든 시각은 한국 표준시(KST, UTC+9) 기준이며, 일본 표준시(JST)와 동일합니다.",
@@ -1542,10 +1550,6 @@
   "Panel: Data Harness and Systems for AI Agents": {
     "ko": "패널: AI 에이전트를 위한 데이터 하네스 및 시스템",
     "ja": "パネル：AIエージェントのためのデータハーネスとシステム"
-  },
-  "Moderator: TBD": {
-    "ko": "사회자: 미정",
-    "ja": "司会：未定"
   },
   "Kwanghyun Park (Yonsei University) [KR]": {
     "ko": "Kwanghyun Park (연세대학교) [KR]",
