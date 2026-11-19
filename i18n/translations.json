@@ -1387,6 +1387,14 @@
     "ko": "좌장: 미정",
     "ja": "座長：未定"
   },
+  "Session Chair: Akiyo Nadamoto": {
+    "ko": "좌장: Akiyo Nadamoto",
+    "ja": "座長：Akiyo Nadamoto"
+  },
+  "Session Chair: Kyoungsook KIM": {
+    "ko": "좌장: Kyoungsook KIM",
+    "ja": "座長：Kyoungsook KIM"
+  },
   "Keynote 2": {
     "ko": "기조강연 2",
     "ja": "基調講演2"
@@ -1423,9 +1431,9 @@
     "ko": "잠정 시간표",
     "ja": "暫定タイムテーブル"
   },
-  "Session chairs, the moderator, and one panelist are to be announced. Times and details are subject to change.": {
-    "ko": "세션 좌장, 패널 사회자 및 패널 참가자 1명은 추후 공지됩니다. 시간과 세부 내용은 변경될 수 있습니다.",
-    "ja": "セッション座長、パネル司会者、パネリスト1名は後日お知らせします。時刻や内容は変更される場合があります。"
+  "The remaining session chairs and the moderator are to be announced. Times and details are subject to change.": {
+    "ko": "나머지 세션 좌장과 패널 사회자는 추후 공지됩니다. 시간과 세부 내용은 변경될 수 있습니다.",
+    "ja": "残りのセッション座長とパネル司会者は後日お知らせします。時刻や内容は変更される場合があります。"
   },
   "All times are in Korea Standard Time (KST, UTC+9), the same as Japan Standard Time (JST).": {
     "ko": "모든 시각은 한국 표준시(KST, UTC+9) 기준이며, 일본 표준시(JST)와 동일합니다.",
@@ -1551,9 +1559,9 @@
     "ko": "Yu Suzuki (기후대학교) [JP]",
     "ja": "Yu Suzuki（岐阜大学）[JP]"
   },
-  "TBD [JP]": {
-    "ko": "미정 [JP]",
-    "ja": "未定 [JP]"
+  "Kazuo GODA (The University of Tokyo) [JP]": {
+    "ko": "Kazuo GODA (도쿄대학교) [JP]",
+    "ja": "Kazuo GODA（東京大学）[JP]"
   },
   "Session 3: Agents, Knowledge, and Human-Centered AI": {
     "ko": "세션 3: 에이전트, 지식 및 인간 중심 AI",
